@@ -1,0 +1,1333 @@
+﻿Log file open, 06/25/22 09:51:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=13472)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MediaNight
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\MediaNight.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (Release 1803) [10.0.17134.2208] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="0bc7b5a345f497c3630b99bde31b1a8e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.877001
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-166293EB4F2460186D07C89C5ED7EACC
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.06 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.06 seconds
+LogConfig: Display: Loading Mac ini files took 0.06 seconds
+LogConfig: Display: Loading Android ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.07 seconds
+LogConfig: Display: Loading TVOS ini files took 0.07 seconds
+LogConfig: Display: Loading Unix ini files took 0.07 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.08 seconds
+LogConfig: Display: Loading Linux ini files took 0.08 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OculusVR
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed loading OVRPlugin 1.65.0
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (Release 1803) [10.0.17134.2208] (), CPU: Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: G:/Programme/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:None]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:None]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[r.Mobile.AllowSoftwareOcclusion:0]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[r.VT.EnableCompressZlib:1]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[r.VT.EnableCompressCrunch:0]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[r.DistanceFieldBuild.EightBit:0]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[r.GenerateLandscapeGIData:0]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[r.DistanceFieldBuild.Compress:0]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[r.EyeAdaptation.EditorOnly:0]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[r.SSGI.Enable:0]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[r.SupportAtmosphericFog:1]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[r.LightPropagationVolume:0]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.06.25-07.51.18:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.06.25-07.51.18:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.06.25-07.51.18:258][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.06.25-07.51.18:259][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.06.25-07.51.18:263][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.06.25-07.51.18:263][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.06.25-07.51.18:263][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.06.25-07.51.18:263][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.06.25-07.51.18:263][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.06.25-07.51.18:263][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.06.25-07.51.18:263][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.06.25-07.51.18:263][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.06.25-07.51.18:263][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.06.25-07.51.18:263][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.06.25-07.51.18:263][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.06.25-07.51.18:273][  0]LogD3D12RHI: Aftermath initialized
+[2022.06.25-07.51.18:273][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.06.25-07.51.18:303][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.06.25-07.51.18:361][  0]LogHMD: Initialized OpenXR on SteamVR/OpenXR runtime version 0.1.0
+[2022.06.25-07.51.18:513][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 980 Ti (Max supported Feature Level 12_1, shader model 6.2)
+[2022.06.25-07.51.18:513][  0]LogD3D12RHI: Adapter has 6097MB of dedicated video memory, 0MB of dedicated system memory, and 16303MB of shared system memory, 1 output[s]
+[2022.06.25-07.51.18:537][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.1)
+[2022.06.25-07.51.18:537][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16303MB of shared system memory, 0 output[s]
+[2022.06.25-07.51.18:537][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock on older versions of Windows.
+[2022.06.25-07.51.18:538][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.06.25-07.51.18:538][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.25-07.51.18:538][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.06.25-07.51.18:538][  0]LogHAL: Display: Platform has ~ 32 GB [34190995456 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.25-07.51.18:538][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.06.25-07.51.18:538][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.06.25-07.51.18:538][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.25-07.51.18:538][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.06.25-07.51.18:538][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Saved/Config/WindowsEditor/Editor.ini]
+[2022.06.25-07.51.18:538][  0]LogInit: Computer: r148-133
+[2022.06.25-07.51.18:538][  0]LogInit: User: vrlabuser
+[2022.06.25-07.51.18:538][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.06.25-07.51.18:538][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.25-07.51.18:538][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.06.25-07.51.18:538][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.06.25-07.51.18:538][  0]LogMemory: Process Physical Memory: 278.76 MB used, 289.77 MB peak
+[2022.06.25-07.51.18:538][  0]LogMemory: Process Virtual Memory: 250.74 MB used, 250.74 MB peak
+[2022.06.25-07.51.18:538][  0]LogMemory: Physical Memory: 6346.06 MB used,  26261.02 MB free, 32607.07 MB total
+[2022.06.25-07.51.18:538][  0]LogMemory: Virtual Memory: 9097.46 MB used,  28373.61 MB free, 37471.07 MB total
+[2022.06.25-07.51.18:538][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.06.25-07.51.18:546][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.25-07.51.18:566][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.06.25-07.51.18:570][  0]LogInit: Using OS detected language (de-DE).
+[2022.06.25-07.51.18:570][  0]LogInit: Using OS detected locale (de-DE).
+[2022.06.25-07.51.18:574][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so 'de' will be used for the language.
+[2022.06.25-07.51.18:574][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/de/Editor.locres' could not be opened for reading!
+[2022.06.25-07.51.18:574][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/de/EditorTutorials.locres' could not be opened for reading!
+[2022.06.25-07.51.18:575][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/de/Keywords.locres' could not be opened for reading!
+[2022.06.25-07.51.18:575][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/de/Category.locres' could not be opened for reading!
+[2022.06.25-07.51.18:575][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/de/ToolTips.locres' could not be opened for reading!
+[2022.06.25-07.51.18:575][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/de/PropertyNames.locres' could not be opened for reading!
+[2022.06.25-07.51.18:575][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/de/Engine.locres' could not be opened for reading!
+[2022.06.25-07.51.18:602][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.25-07.51.18:616][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.06.25-07.51.18:616][  0]LogWindowsTextInputMethodSystem:   - Deutsch (Deutschland) - (Keyboard).
+[2022.06.25-07.51.18:616][  0]LogWindowsTextInputMethodSystem:   - Deutsch (Deutschland) - Fingereingabe - Korrektur (TSF IME).
+[2022.06.25-07.51.18:616][  0]LogWindowsTextInputMethodSystem:   - Englisch (Vereinigte Staaten) - (Keyboard).
+[2022.06.25-07.51.18:616][  0]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2022.06.25-07.51.18:646][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.25-07.51.18:646][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.25-07.51.21:397][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.06.25-07.51.21:401][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.06.25-07.51.21:401][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.06.25-07.51.21:483][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.06.25-07.51.21:483][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.06.25-07.51.21:484][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.06.25-07.51.21:484][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.06.25-07.51.21:484][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.06.25-07.51.21:484][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.06.25-07.51.21:484][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2022.06.25-07.51.21:585][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.06.25-07.51.21:595][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.06.25-07.51.21:613][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.06.25-07.51.21:951][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.06.25-07.51.21:951][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.06.25-07.51.22:021][  0]LogD3D12RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.25-07.51.22:021][  0]LogWindows: Attached monitors:
+[2022.06.25-07.51.22:021][  0]LogWindows:     resolution: 4096x2160, work area: (0, 0) -> (4096, 2100), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.06.25-07.51.22:021][  0]LogWindows: Found 1 attached monitors.
+[2022.06.25-07.51.22:021][  0]LogWindows: EnumDisplayDevices:
+[2022.06.25-07.51.22:022][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.06.25-07.51.22:022][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.06.25-07.51.22:023][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.06.25-07.51.22:023][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.06.25-07.51.22:023][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.06.25-07.51.22:023][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2022.06.25-07.51.22:023][  0]LogD3D12RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2022.06.25-07.51.22:023][  0]LogD3D12RHI:      Driver Date: 9-30-2020
+[2022.06.25-07.51.22:023][  0]LogRHI: Texture pool is 3265 MB (70% of 4664 MB)
+[2022.06.25-07.51.22:023][  0]LogD3D12RHI: Async texture creation enabled
+[2022.06.25-07.51.22:023][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.06.25-07.51.22:046][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.06.25-07.51.22:084][  0]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2022.06.25-07.51.29:262][  0]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2022.06.25-07.51.29:264][  0]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2022.06.25-07.51.29:266][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues.
+Please install either the latest or the recommended driver version.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 980 Ti
+Installed: 456.71
+Recommended: 511.79
+[2022.06.25-07.51.29:277][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/MediaNight.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/TurnkeyReport_0.log" -log="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/TurnkeyLog_0.log" -project="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/MediaNight.uproject"  -platform=all'
+[2022.06.25-07.51.29:277][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""G:/Programme/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/MediaNight.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/TurnkeyReport_0.log" -log="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/TurnkeyLog_0.log" -project="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/MediaNight.uproject"  -platform=all" ]
+[2022.06.25-07.51.29:319][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.06.25-07.51.29:330][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.06.25-07.51.29:330][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.06.25-07.51.29:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.25-07.51.29:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.25-07.51.29:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.25-07.51.29:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.25-07.51.29:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.25-07.51.29:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.25-07.51.29:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.25-07.51.29:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.25-07.51.29:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.25-07.51.29:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.25-07.51.29:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.06.25-07.51.29:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.06.25-07.51.29:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.25-07.51.29:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.25-07.51.29:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.25-07.51.29:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.06.25-07.51.29:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.25-07.51.29:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.25-07.51.29:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.06.25-07.51.29:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.06.25-07.51.29:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.06.25-07.51.29:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.25-07.51.29:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.25-07.51.29:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.25-07.51.29:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.06.25-07.51.29:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.25-07.51.29:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.25-07.51.29:429][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.06.25-07.51.29:442][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.25-07.51.29:447][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.06.25-07.51.29:448][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.06.25-07.51.29:448][  0]LogTargetPlatformManager:   ADPCM
+[2022.06.25-07.51.29:448][  0]LogTargetPlatformManager:   PCM
+[2022.06.25-07.51.29:453][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.06.25-07.51.29:453][  0]LogTargetPlatformManager:   BINKA
+[2022.06.25-07.51.29:453][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.06.25-07.51.29:453][  0]LogTargetPlatformManager:   OGG
+[2022.06.25-07.51.29:453][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.06.25-07.51.29:453][  0]LogTargetPlatformManager:   OPUS
+[2022.06.25-07.51.29:530][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   SF_METAL
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.06.25-07.51.29:539][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.06.25-07.51.29:545][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.06.25-07.51.29:545][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.06.25-07.51.29:545][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.06.25-07.51.29:545][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.06.25-07.51.29:545][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.06.25-07.51.29:545][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.06.25-07.51.29:545][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.06.25-07.51.29:545][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.25-07.51.29:546][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.25-07.51.29:546][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.25-07.51.29:546][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.25-07.51.29:553][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.25-07.51.29:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.25-07.51.29:558][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.06.25-07.51.29:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.25-07.51.29:558][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.06.25-07.51.29:612][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.06.25-07.51.29:612][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.25-07.51.29:612][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.06.25-07.51.29:709][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2022.06.25-07.51.29:709][  0]LogDerivedDataCache: Speed tests for C:/Users/vr_lab_user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.10 seconds
+[2022.06.25-07.51.29:709][  0]LogDerivedDataCache: Display: Performance to C:/Users/vr_lab_user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=10.84MBs, RandomWriteSpeed=93.50MBs. Assigned SpeedClass 'Local'
+[2022.06.25-07.51.29:710][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vr_lab_user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.25-07.51.29:711][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.25-07.51.29:711][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.06.25-07.51.29:728][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.06.25-07.51.29:728][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.06.25-07.51.29:730][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/Shaders/WorkingDirectory/15936/).
+[2022.06.25-07.51.29:730][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vr_lab_user/AppData/Local/Temp/UnrealShaderWorkingDir/52AB826F4F71AE20789C628DA9F15A95/'.
+[2022.06.25-07.51.29:731][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.25-07.51.29:731][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.06.25-07.51.35:055][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.25-07.51.35:056][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.25-07.51.35:131][  0]LogAssetRegistry: FAssetRegistry took 0.0161 seconds to start up
+[2022.06.25-07.51.35:140][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.06.25-07.51.35:433][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.06.25-07.51.35:434][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.06.25-07.51.35:799][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.25-07.51.35:799][  0]LogDeviceProfileManager: Active device profile: [00000748B5BAE380][00000748AC84C800 50] WindowsEditor
+[2022.06.25-07.51.35:799][  0]LogDeviceProfileManager: Profiles: [00000748B5BADE40][00000748AEB8C800 50] Windows, [00000748B5BAE380][00000748AC84C800 50] WindowsEditor, [00000748B5BACCC0][00000748ACB1A000 50] WindowsServer, [00000748B5BADAC0][00000748ACB17800 50] WindowsClient, [00000748B5BAAB80][000007489D650000 50] IOS, [00000748B5BAD900][00000748ACB60000 50] iPadAir2, [00000748B5BAA9C0][00000748B5F20000 50] IPadPro, [00000748B5BAEE00][00000748B5F22800 50] iPadAir3, [00000748B5BAD580][00000748B5F27800 50] iPadAir4, [00000748B5BAAF00][00000748B5F2A000 50] iPadMini4, [00000748B5BA9F40][00000748B5F2C800 50] iPadMini5, [00000748B5BAD740][00000748ACB15000 50] iPadMini6, [00000748B5FD1A40][00000748B5F32800 50] iPhone6S, [00000748B5FD1DC0][00000748B5F30000 50] iPhone7, [00000748B5FD16C0][00000748B5F35000 50] iPodTouch7, [00000748B5FD2BC0][00000748B5F3A000 50] iPhone6SPlus, [00000748B5FD2840][00000748B5F3C800 50] iPhone7Plus, [00000748B5FD2300][00000748B5F25000 50] iPhoneSE, [00000748B5FD2140][00000748B5F37800 50] iPhone8, [00000748B5FD1F80][00000748B5F40000 50] iPhone8Plus, [00000748B5FD01C0][00000748B5F45000 50] iPhoneX, [00000748B5FD3B80][00000748B5F47800 50] iPhoneXS, [00000748B5FD3640][00000748B5F4A000 50] iPhoneXSMax, [00000748B5FD3480][00000748B5F4C800 50] iPhoneXR, [00000748B5FD3800][00000748ACB62800 50] iPhone11, [00000748B5FD0C40][00000748B5FB0000 50] iPhone11Pro, [00000748B5FD0A80][00000748B5FB5000 50] iPhone11ProMax, [00000748B5FD1C00][00000748B5FB7800 50] iPhoneSE2, [00000748B5FD32C0][00000748B5FBA000 50] iPhone12Mini, [00000748B5FD3100][00000748B5FBC800 50] iPhone12, [00000748B5FD4D00][00000748B5F42800 50] iPhone12Pro, [00000748B5FD1880][00000748B5F60000 50] iPhone12ProMax, [00000748B5FD39C0][00000748B5F65000 50] iPhone13Mini, [00000748B5FD0FC0][00000748B5F67800 50] iPhone13, [00000748B5FD2A00][00000748B5F6A000 50] iPhone13Pro, [00000748B5FD2D80][00000748B5F6C800 50] iPhone13ProMax, [00000748B5FD2680][00000748B5FB2800 50] iPadPro105, [00000748B5FD47C0][00000748B5F70000 50] iPadPro129, [00000748B5FD0000][00000748B5F75000 50] iPadPro97, [00000748B5FD5CC0][00000748B5F77800 50] iPadPro2_129, [00000748B5FD0700][00000748B5F7A000 50] iPad5, [00000748B5FD40C0][00000748B5F7C800 50] iPad6, [00000748B5FD1340][00000748B5F62800 50] iPad7, [00000748B5FD08C0][00000748B5FE0000 50] iPad8, [00000748B5FD0380][00000748B5FE5000 50] iPad9, [00000748B5FD3F00][00000748B5FE7800 50] iPadPro11, [00000748B5FD5780][00000748B5FEA000 50] iPadPro2_11, [00000748B5FD0E00][00000748B5FEC800 50] iPadPro3_11, [00000748B5FD6C80][00000748B5F72800 50] iPadPro3_129, [00000748B5FD4980][00000748B7190000 50] iPadPro4_129, [00000748B5FD1180][00000748B7195000 50] iPadPro5_129, [00000748B5FD5080][00000748B7197800 50] AppleTV, [00000748B5FD4440][00000748B719A000 50] AppleTV4K, [00000748B5FD5E80][00000748B719C800 50] TVOS, [00000748B5FD9140][00000748B71C0000 50] Mac, [00000748B5FD94C0][00000748B71C2800 50] MacEditor, [00000748B5FD8A40][00000748B71C7800 50] MacClient, [00000748B5FD8F80][00000748B71CA000 50] MacServer, [00000748B5FD1500][00000748B5FE2800 50] Linux, [00000748B5FD6580][00000748B7192800 50] LinuxEditor, [00000748B5FD86C0][00000748B71CC800 50] LinuxArm64Editor, [00000748B5FD0540][00000748B71A0000 50] LinuxArm64, [00000748B5FD8500][00000748B71A5000 50] LinuxClient, [00000748B5FD8340][00000748B71A7800 50] LinuxArm64Client, [00000748B5FD63C0][00000748B71AA000 50] LinuxServer, [00000748B5FD71C0][00000748B71AC800 50] LinuxArm64Server, [00000748B5FD9A00][00000748B71C5000 50] Android, [00000748B5FD5B00][00000748B71B0000 50] Android_Preview_OpenGL, [00000748B5FD6040][00000748B71B5000 50] Android_Preview_Vulkan, [00000748B5FD6200][00000748B71B7800 50] Android_Low, [00000748B5FD8880][00000748B71BA000 50] Android_Mid, [00000748B5FD7380][00000748B71BC800 50] Android_High, [00000748B5FD55C0][00000748B71A2800 50] Android_Default, [00000748B5FD6E40][00000748B71D0000 50] Android_Adreno4xx, [00000748B5FD6AC0][00000748B71D5000 50] Android_Adreno5xx_Low, [00000748B5FD7C40][00000748B71D7800 50] Android_Adreno5xx, [00000748B5FD7A80][00000748B71DA000 50] Android_Adreno6xx, [00000748B5FD6900][00000748B71DC800 50] Android_Adreno6xx_Vulkan, [00000748B5FD24C0][00000748B71B2800 50] Android_Adreno7xx, [00000748B5FD3D40][00000748B71E0000 50] Android_Adreno7xx_Vulkan, [00000748B5FD8C00][00000748B71E5000 50] Android_Mali_T6xx, [00000748B5FD7700][00000748B71E7800 50] Android_Mali_T7xx, [00000748B5FD78C0][00000748B71EA000 50] Android_Mali_T8xx, [00000748B5FD4EC0][00000748B71EC800 50] Android_Mali_G71, [00000748B5FD5940][00000748B71D2800 50] Android_Mali_G72, [00000748B5FDA480][00000748B5FF0000 50] Android_Mali_G72_Vulkan, [00000748B5FDA2C0][00000748B5FF5000 50] Android_Mali_G76, [00000748B5FD9F40][00000748B5FF7800 50] Android_Mali_G76_Vulkan, [00000748B5FD6740][00000748B5FFA000 50] Android_Mali_G77, [00000748B5FD4B40][00000748B5FFC800 50] Android_Mali_G77_Vulkan, [00000748B5FD5240][00000748B71E2800 50] Android_Mali_G78, [00000748B5FDA100][00000748B71F0000 50] Android_Mali_G78_Vulkan, [00000748B5FD9680][00000748B71F5000 50] Android_Mali_G710, [00000748B5FD7FC0][00000748B71F7800 50] Android_Mali_G710_Vulkan, [00000748B5FDAD40][00000748B71FA000 50] Android_Xclipse_920, [00000748B5FDB600][00000748B71FC800 50] Android_Xclipse_920_Vulkan, [00000748B5FD9BC0][00000748B5FF2800 50] Android_Vulkan_SM5, [00000748B5FD2F40][00000748B7200000 50] Android_PowerVR_G6xxx, [00000748B5FD4280][00000748B7205000 50] Android_PowerVR_GT7xxx, [00000748B5FDB7C0][00000748B7207800 50] Android_PowerVR_GE8xxx, [00000748B5FD9D80][00000748B720A000 50] Android_PowerVR_GM9xxx, [00000748B5FD4600][00000748B720C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000748B5FDC5C0][00000748B71F2800 50] Android_TegraK1, [00000748B5FDC780][00000748B7210000 50] Android_Unknown_Vulkan, [00000748B5FDC240][00000748B7215000 50] Oculus_Quest, [00000748B5FDC400][00000748B7217800 50] Oculus_Quest2, [00000748B5FDBD00][00000748B721A000 50] HoloLens, 
+[2022.06.25-07.51.35:799][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.06.25-07.51.35:904][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.06.25-07.51.36:175][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.25-07.51.36:175][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.25-07.51.36:175][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.25-07.51.36:175][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.25-07.51.36:175][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.25-07.51.36:225][  0]LogNetVersion: MediaNight 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3207417235)
+[2022.06.25-07.51.37:002][  0]LogSlate: Border
+[2022.06.25-07.51.37:002][  0]LogSlate: BreadcrumbButton
+[2022.06.25-07.51.37:002][  0]LogSlate: Default
+[2022.06.25-07.51.37:002][  0]LogSlate: Icons.Save
+[2022.06.25-07.51.37:002][  0]LogSlate: Icons.Toolbar.Settings
+[2022.06.25-07.51.37:002][  0]LogSlate: ListView
+[2022.06.25-07.51.37:002][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.06.25-07.51.37:002][  0]LogSlate: SoftwareCursor_Grab
+[2022.06.25-07.51.37:002][  0]LogSlate: TableView.DarkRow
+[2022.06.25-07.51.37:002][  0]LogSlate: TableView.Row
+[2022.06.25-07.51.37:002][  0]LogSlate: TreeView
+[2022.06.25-07.51.38:339][  0]SourceControl: Source control is disabled
+[2022.06.25-07.51.38:450][  0]SourceControl: Source control is disabled
+[2022.06.25-07.51.38:450][  0]SourceControl: Source control is disabled
+[2022.06.25-07.51.38:701][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.25-07.51.38:723][  0]LogUObjectArray: 20625 objects as part of root set at end of initial load.
+[2022.06.25-07.51.38:723][  0]LogUObjectAllocator: 5604128 out of 0 bytes used by permanent object pool.
+[2022.06.25-07.51.38:723][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.25-07.51.39:595][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: EBB894564E7204BE7DD085BFB2C3B00B | Instance: 3AEDFCF54FC6CD622C6CBF85BBB9EA23 (r148-133-15936).
+[2022.06.25-07.51.39:682][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.25-07.51.39:693][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.25-07.51.39:711][  0]LogPython: Using Python 3.9.7
+[2022.06.25-07.51.41:444][  0]SourceControl: Source control is disabled
+[2022.06.25-07.51.41:482][  0]SourceControl: Source control is disabled
+[2022.06.25-07.51.41:486][  0]SourceControl: Source control is disabled
+[2022.06.25-07.51.41:562][  0]LogUProjectInfo: Found projects:
+[2022.06.25-07.51.41:824][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.25-07.51.41:867][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.25-07.51.41:897][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.25-07.51.41:897][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.25-07.51.42:304][  0]LogCollectionManager: Loaded 0 collections in 0.001667 seconds
+[2022.06.25-07.51.42:493][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Saved/Collections/' took 0.00s
+[2022.06.25-07.51.42:493][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/Developers/vrlabuser/Collections/' took 0.00s
+[2022.06.25-07.51.42:493][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/Collections/' took 0.00s
+[2022.06.25-07.51.42:493][  0]LogOcInput: OculusInput pre-init called
+[2022.06.25-07.51.43:246][  0]LogEngine: Initializing Engine...
+[2022.06.25-07.51.43:785][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.25-07.51.44:513][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.25-07.51.44:514][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-07.51.44:528][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-07.51.44:554][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.25-07.51.44:555][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.25-07.51.44:575][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.25-07.51.44:581][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.25-07.51.44:581][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.25-07.51.44:581][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.25-07.51.44:581][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.25-07.51.44:582][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-07.51.44:582][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-07.51.44:582][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-07.51.44:582][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-07.51.44:582][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.06.25-07.51.44:582][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-07.51.44:582][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.06.25-07.51.44:582][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-07.51.44:582][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.06.25-07.51.44:582][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.06.25-07.51.44:582][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-07.51.44:601][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-07.51.44:711][  0]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (2- Rift Audio)
+[2022.06.25-07.51.44:711][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-07.51.44:734][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-07.51.44:734][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-07.51.44:744][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.25-07.51.44:744][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.25-07.51.44:746][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.25-07.51.44:746][  0]LogInit: FAudioDevice initialized.
+[2022.06.25-07.51.44:746][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.25-07.51.44:746][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.25-07.51.44:747][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.25-07.51.44:747][  0]LogInit: Texture streaming: Enabled
+[2022.06.25-07.51.44:779][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.06.25-07.51.44:789][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.25-07.51.44:789][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={EA57D2B7-41CD-F4FD-9D79-33B4EF3C1F10}
+[2022.06.25-07.51.44:823][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.25-07.51.44:833][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.25-07.51.44:833][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.06.25-07.51.46:816][  0]LogLiveCoding: Display: First instance in process group "UE_MediaNight_0x8feafb61", spawning console
+[2022.06.25-07.51.46:817][  0]LogLiveCoding: Display: Waiting for server
+[2022.06.25-07.51.46:817][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.06.25-07.51.46:866][  0]LogInit: Transaction tracking system initialized
+[2022.06.25-07.51.46:941][  0]BlueprintLog: New page: Editor Load
+[2022.06.25-07.51.47:113][  0]LocalizationService: Localization service is disabled
+[2022.06.25-07.51.47:158][  0]TimingProfiler: Initialize
+[2022.06.25-07.51.47:158][  0]TimingProfiler: OnSessionChanged
+[2022.06.25-07.51.47:158][  0]LoadingProfiler: Initialize
+[2022.06.25-07.51.47:158][  0]LoadingProfiler: OnSessionChanged
+[2022.06.25-07.51.47:158][  0]NetworkingProfiler: Initialize
+[2022.06.25-07.51.47:158][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.25-07.51.47:158][  0]MemoryProfiler: Initialize
+[2022.06.25-07.51.47:159][  0]MemoryProfiler: OnSessionChanged
+[2022.06.25-07.51.48:232][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/' took 0.11s
+[2022.06.25-07.51.48:232][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.06.25-07.51.48:387][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.25-07.51.48:389][  0]SourceControl: Source control is disabled
+[2022.06.25-07.51.48:390][  0]LogUnrealEdMisc: Loading editor; pre map load, took 33.327
+[2022.06.25-07.51.48:390][  0]Cmd: MAP LOAD FILE="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.25-07.51.48:390][  0]LightingResults: New page: Lighting Build
+[2022.06.25-07.51.48:396][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-07.51.48:396][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.51.48:396][  0]MapCheck: New page: Map Check
+[2022.06.25-07.51.48:397][  0]LightingResults: New page: Lighting Build
+[2022.06.25-07.51.48:405][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-07.51.48:409][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.25-07.51.48:507][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\Animations\Death_1_Montage.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Death_1': Can't find file.
+[2022.06.25-07.51.48:507][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Death_1'
+[2022.06.25-07.51.48:508][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\Animations\Death_2_Montage.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Death_2': Can't find file.
+[2022.06.25-07.51.48:508][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Death_2'
+[2022.06.25-07.51.48:510][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\Animations\Death_3_Montage.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Death_3': Can't find file.
+[2022.06.25-07.51.48:510][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Death_3'
+[2022.06.25-07.51.48:511][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\Animations\Death_4_Montage.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Death_4': Can't find file.
+[2022.06.25-07.51.48:511][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Death_4'
+[2022.06.25-07.51.48:511][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\BP_Enemy.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Hit_1_Montage': Can't find file.
+[2022.06.25-07.51.48:511][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Hit_1_Montage'
+[2022.06.25-07.51.48:512][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\BP_Enemy.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Hit_2_Montage': Can't find file.
+[2022.06.25-07.51.48:512][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Hit_2_Montage'
+[2022.06.25-07.51.48:512][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\BP_Enemy.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Hit_3_Montage': Can't find file.
+[2022.06.25-07.51.48:512][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Hit_3_Montage'
+[2022.06.25-07.51.48:512][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\BP_Enemy.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Hit_4_Montage': Can't find file.
+[2022.06.25-07.51.48:512][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Hit_4_Montage'
+[2022.06.25-07.51.50:633][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2022.06.25-07.51.50:633][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-07.51.50:633][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-07.51.50:634][  0]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.06.25-07.51.50:646][  0]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse needed to have new flag set bUsedWithSkeletalMesh !
+[2022.06.25-07.51.50:706][  0]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 0EA41E954BE06E7F7AE06B988D138C1C3B7D0551), compiling. 
+[2022.06.25-07.51.50:860][  0]MapCheck: Warning: M_Tech_Hex_Tile_Pulse Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse was missing the usage flag bUsedWithSkeletalMesh. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2022.06.25-07.51.50:876][  0]LogRenderer: Warning: Deprectaed CVar r.BasePassOutputsVelocity is set to 0. Remove and use r.VelocityOutputPass instead.
+[2022.06.25-07.51.50:876][  0]LogRenderer: Warning: Deprectaed CVar r.VertexDeformationOutputsVelocity is set to 0. Remove and use r.Velocity.EnableVertexDeformation instead.
+[2022.06.25-07.51.50:876][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.25-07.51.50:894][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.06.25-07.51.50:895][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.25-07.51.50:895][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,27ms to complete.
+[2022.06.25-07.51.50:908][  0]LogFileHelpers: Loading map 'VRTemplateMap' took 2.519
+[2022.06.25-07.51.50:920][  0]LogUnrealEdMisc: Total Editor Startup Time, took 35.858
+[2022.06.25-07.51.50:920][  0]LogShaderCompilers: Display: ================================================
+[2022.06.25-07.51.50:920][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.25-07.51.50:920][  0]LogShaderCompilers: Display: Total job queries 37, among them cache hits 0 (0.00%)
+[2022.06.25-07.51.50:920][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.25-07.51.50:920][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.25-07.51.50:921][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.25-07.51.50:921][  0]LogShaderCompilers: Display: Shaders Compiled: 37
+[2022.06.25-07.51.50:921][  0]LogShaderCompilers: Display: Jobs assigned 37, completed 0 (0.00%)
+[2022.06.25-07.51.50:921][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2022.06.25-07.51.50:921][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.25-07.51.50:921][  0]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 5.00 jobs/batch
+[2022.06.25-07.51.50:921][  0]LogShaderCompilers: Display: ================================================
+[2022.06.25-07.51.51:040][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.06.25-07.51.51:056][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.51.51:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.51.51:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.51.51:076][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.51.51:959][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.06.25-07.51.51:959][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.51.51:961][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.06.25-07.51.51:961][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.51.51:963][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.06.25-07.51.51:963][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.51.51:965][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.06.25-07.51.51:965][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.51.51:967][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.06.25-07.51.51:967][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.51.51:968][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.06.25-07.51.51:969][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.51.51:970][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.06.25-07.51.51:970][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.51.51:972][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.06.25-07.51.51:972][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.51.51:974][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.06.25-07.51.51:974][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.51.51:975][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.06.25-07.51.51:976][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.51.52:219][  0]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.25-07.51.52:222][  0]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.25-07.51.52:228][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.25-07.51.52:231][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.25-07.51.52:233][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.25-07.51.52:288][  0]LogViewport: Scene viewport resized to 2517x1303, mode Windowed.
+[2022.06.25-07.51.52:809][  0]LogProfilingDebugging: Allocated a 2517 x 1303 texture for HMD canvas layer
+[2022.06.25-07.51.52:866][  0]LogStall: Startup...
+[2022.06.25-07.51.52:869][  0]LogStall: Startup complete.
+[2022.06.25-07.51.52:911][  0]LogLoad: (Engine Initialization) Total time: 37.85 seconds
+[2022.06.25-07.51.52:911][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.25-07.51.53:081][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.25-07.51.53:399][  1]LogAssetRegistry: Asset discovery search completed in 18.2701 seconds
+[2022.06.25-07.51.53:437][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.06.25-07.51.53:448][  1]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_MenuLaser.NS_MenuLaser took 3.007189 sec, no shader worker used.
+[2022.06.25-07.51.53:457][  1]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_PlayAreaBounds.NS_PlayAreaBounds took 2.976895 sec, no shader worker used.
+[2022.06.25-07.51.53:482][  1]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.06.25-07.51.53:592][  1]LogSlate: Took 0.000491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.25-07.51.53:721][  2]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportRing.NS_TeleportRing took 3.207960 sec, no shader worker used.
+[2022.06.25-07.51.53:721][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.06.25-07.51.53:749][  2]LogSlate: Took 0.000420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.25-07.51.53:787][  3]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportTrace.NS_TeleportTrace took 3.220434 sec, no shader worker used.
+[2022.06.25-07.52.00:118][273]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.25-07.52.00:136][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-07.52.00:137][273]PIE: New page: PIE session: VRTemplateMap (25.06.2022, 11:52:00)
+[2022.06.25-07.52.00:147][273]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.06.25-07.52.00:147][273]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.25-07.52.00:147][273]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.06.25-07.52.00:163][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015270s)
+[2022.06.25-07.52.00:163][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.015593s)
+[2022.06.25-07.52.00:163][273]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-07.52.00:163][273]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-07.52.00:164][273]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.06.25-07.52.00:165][273]LogPlayLevel: PIE: World Init took: (0.001989s)
+[2022.06.25-07.52.00:184][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.06.25-07.52.00:185][273]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.25-07.52.00:185][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-07.52.00:185][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-07.52.00:185][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-07.52.00:185][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-07.52.00:185][273]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.06.25-07.52.00:185][273]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-07.52.00:185][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.06.25-07.52.00:185][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-07.52.00:187][273]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.06.25-07.52.00:187][273]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.06.25-07.52.00:187][273]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-07.52.00:190][273]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-07.52.00:314][273]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (2- Rift Audio)
+[2022.06.25-07.52.00:315][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-07.52.00:315][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-07.52.00:315][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-07.52.00:317][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.06.25-07.52.00:317][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.06.25-07.52.00:320][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.06.25-07.52.00:320][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.06.25-07.52.00:320][273]LogInit: FAudioDevice initialized.
+[2022.06.25-07.52.00:320][273]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2022.06.25-07.52.00:352][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.52.00:387][273]LogLoad: Game class is 'VRGameMode_C'
+[2022.06.25-07.52.00:422][273]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.06.25-09.52.00
+[2022.06.25-07.52.00:426][273]LogWorld: Bringing up level for play took: 0.038517
+[2022.06.25-07.52.00:430][273]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2022.06.25-07.52.00:432][273]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.25-07.52.00:479][273]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.52.00:483][273]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.52.00:520][273]PIE: Server logged in
+[2022.06.25-07.52.00:527][273]PIE: Play in editor total start time 0,391 seconds.
+[2022.06.25-07.52.00:565][273]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.25-07.52.00:658][273]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.06.25-07.52.00:677][273]LogHMD: Error: Failed to create all visibility mask meshes for device/views. Abandoning visibility mask.
+[2022.06.25-07.52.00:707][273]LogRenderer: Warning: Resizing VR buffer to 3016 by 1796
+[2022.06.25-07.52.00:881][275]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.06.25-07.52.07:041][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.52.07:041][402]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.06.25-07.52.07:155][402]LogSlate: Window 'MediaNight Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR SteamVR/OpenXR (0.1.0)' being destroyed
+[2022.06.25-07.52.07:161][402]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-07.52.07:163][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.52.07:181][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-07.52.07:187][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.52.07:205][402]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.06.25-07.52.07:205][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.25-07.52.07:207][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.25-07.52.07:221][402]LogSlate: Slate User Unregistered.  User Index 8
+[2022.06.25-07.52.07:221][402]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.52.07:223][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.25-07.52.07:285][403]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.06.25-07.52.16:776][866]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.25-07.52.19:501][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.06.25-07.52.19:510][980]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.008187 seconds
+[2022.06.25-07.52.19:558][980]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.06.25-07.52.19:559][980]LogSavePackage: Moving 'C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Saved/VRTemplateMap35916FC247EA2468499A5EA074B6F075.tmp' to 'C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.06.25-07.52.19:592][980]LogFileHelpers: No new changes to save!
+[2022.06.25-07.52.19:610][980]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.06.25-07.52.19:610][980]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.06.25-07.52.25:684][317]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.25-07.52.25:690][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-07.52.25:690][317]PIE: New page: PIE session: VRTemplateMap (25.06.2022, 11:52:25)
+[2022.06.25-07.52.25:690][317]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.06.25-07.52.25:700][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010167s)
+[2022.06.25-07.52.25:700][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010271s)
+[2022.06.25-07.52.25:700][317]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-07.52.25:700][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-07.52.25:701][317]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.06.25-07.52.25:701][317]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2022.06.25-07.52.25:712][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.06.25-07.52.25:713][317]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.25-07.52.25:713][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-07.52.25:713][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-07.52.25:713][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-07.52.25:713][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-07.52.25:713][317]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.06.25-07.52.25:713][317]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-07.52.25:713][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.06.25-07.52.25:713][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-07.52.25:713][317]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.06.25-07.52.25:713][317]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.06.25-07.52.25:713][317]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-07.52.25:716][317]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-07.52.25:803][317]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (2- Rift Audio)
+[2022.06.25-07.52.25:804][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-07.52.25:804][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-07.52.25:804][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-07.52.25:806][317]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.06.25-07.52.25:806][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.06.25-07.52.25:808][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.06.25-07.52.25:808][317]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.06.25-07.52.25:808][317]LogInit: FAudioDevice initialized.
+[2022.06.25-07.52.25:808][317]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2022.06.25-07.52.25:830][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.52.26:370][317]LogLoad: Game class is 'VRGameMode_C'
+[2022.06.25-07.52.26:389][317]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.06.25-09.52.26
+[2022.06.25-07.52.26:390][317]LogWorld: Bringing up level for play took: 0.020059
+[2022.06.25-07.52.26:392][317]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.06.25-07.52.26:393][317]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.25-07.52.26:394][317]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.52.26:396][317]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.52.26:413][317]PIE: Server logged in
+[2022.06.25-07.52.26:415][317]PIE: Play in editor total start time 0,725 seconds.
+[2022.06.25-07.52.26:433][317]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.25-07.52.26:520][317]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.06.25-07.52.26:528][317]LogHMD: Error: Failed to create all visibility mask meshes for device/views. Abandoning visibility mask.
+[2022.06.25-07.52.32:240][547]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-60.48 Y=-53.10 Z=0.00 Location: X=54.27 Y=27.28 Z=90.21 Normal: X=-1.00 Y=0.02 Z=-0.00 PenetrationDepth:0.920 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.52.33:250][586]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-187.87 Y=-164.94 Z=0.00 Location: X=54.27 Y=27.28 Z=90.21 Normal: X=-0.09 Y=1.00 Z=-0.00 PenetrationDepth:25.908 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (38 other events since notify)
+[2022.06.25-07.52.34:277][628]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-187.87 Y=-164.94 Z=0.00 Location: X=54.27 Y=27.28 Z=90.21 Normal: X=-0.78 Y=0.63 Z=0.00 PenetrationDepth:4.786 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (41 other events since notify)
+[2022.06.25-07.52.35:285][673]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-187.87 Y=-164.94 Z=0.00 Location: X=54.27 Y=27.28 Z=90.21 Normal: X=-0.78 Y=0.62 Z=0.00 PenetrationDepth:5.854 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (44 other events since notify)
+[2022.06.25-07.52.36:286][717]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-187.87 Y=-164.94 Z=0.00 Location: X=54.27 Y=27.28 Z=90.21 Normal: X=-0.43 Y=0.90 Z=0.00 PenetrationDepth:20.789 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (43 other events since notify)
+[2022.06.25-07.52.37:298][759]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-187.87 Y=-164.94 Z=0.00 Location: X=54.27 Y=27.28 Z=90.21 Normal: X=-0.43 Y=0.90 Z=-0.00 PenetrationDepth:18.998 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (41 other events since notify)
+[2022.06.25-07.52.38:298][796]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-187.87 Y=-164.94 Z=0.00 Location: X=54.27 Y=27.28 Z=90.21 Normal: X=-0.43 Y=0.90 Z=-0.00 PenetrationDepth:22.597 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (36 other events since notify)
+[2022.06.25-07.52.39:321][832]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-187.87 Y=-164.94 Z=0.00 Location: X=54.27 Y=27.28 Z=90.21 Normal: X=-0.66 Y=0.75 Z=0.00 PenetrationDepth:2.800 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (35 other events since notify)
+[2022.06.25-07.52.40:332][869]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-187.87 Y=-164.94 Z=0.00 Location: X=54.27 Y=27.28 Z=90.21 Normal: X=-0.88 Y=0.47 Z=-0.00 PenetrationDepth:19.468 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (36 other events since notify)
+[2022.06.25-07.52.40:477][875]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue was zero and has changed. Consider manually Re-saving the asset
+[2022.06.25-07.52.41:010][895]LogCharacterMovement: BP_Enemy_C_1 is stuck and failed to move! Velocity: X=17.78 Y=41.60 Z=0.00 Location: X=12.83 Y=-37.25 Z=90.40 Normal: X=-0.92 Y=-0.40 Z=0.00 PenetrationDepth:3.850 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.52.41:323][906]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-189.25 Y=-163.35 Z=0.00 Location: X=56.77 Y=28.67 Z=89.19 Normal: X=0.68 Y=0.56 Z=-0.46 PenetrationDepth:2.158 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (35 other events since notify)
+[2022.06.25-07.52.41:841][926]LogCharacterMovement: BP_Enemy_C_0 is stuck and failed to move! Velocity: X=152.20 Y=-64.81 Z=0.00 Location: X=-22.73 Y=31.17 Z=90.21 Normal: X=-0.95 Y=0.30 Z=-0.00 PenetrationDepth:5.574 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.52.42:030][932]LogCharacterMovement: BP_Enemy_C_1 is stuck and failed to move! Velocity: X=78.61 Y=183.90 Z=0.00 Location: X=12.78 Y=-37.36 Z=90.37 Normal: X=-0.63 Y=-0.78 Z=-0.02 PenetrationDepth:15.804 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (34 other events since notify)
+[2022.06.25-07.52.42:345][942]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-67.77 Y=-49.97 Z=0.00 Location: X=61.61 Y=29.58 Z=88.16 Normal: X=0.56 Y=0.82 Z=-0.13 PenetrationDepth:2.787 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (25 other events since notify)
+[2022.06.25-07.52.43:058][966]LogCharacterMovement: BP_Enemy_C_1 is stuck and failed to move! Velocity: X=78.63 Y=183.89 Z=0.00 Location: X=12.77 Y=-37.37 Z=90.37 Normal: X=0.09 Y=-0.98 Z=-0.16 PenetrationDepth:0.765 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (32 other events since notify)
+[2022.06.25-07.52.43:883][997]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.44:065][  2]LogCharacterMovement: BP_Enemy_C_1 is stuck and failed to move! Velocity: X=68.95 Y=161.20 Z=0.00 Location: X=12.76 Y=-37.38 Z=90.36 Normal: X=0.16 Y=-0.97 Z=-0.17 PenetrationDepth:0.793 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (34 other events since notify)
+[2022.06.25-07.52.45:011][ 35]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.45:067][ 36]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.45:067][ 36]LogCharacterMovement: BP_Enemy_C_1 is stuck and failed to move! Velocity: X=78.72 Y=183.86 Z=0.00 Location: X=12.74 Y=-37.39 Z=90.36 Normal: X=0.49 Y=-0.87 Z=-0.07 PenetrationDepth:2.127 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.52.46:039][ 69]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.46:076][ 70]LogCharacterMovement: BP_Enemy_C_1 is stuck and failed to move! Velocity: X=78.72 Y=183.86 Z=0.00 Location: X=12.74 Y=-37.39 Z=90.36 Normal: X=0.32 Y=-0.95 Z=0.00 PenetrationDepth:4.792 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (33 other events since notify)
+[2022.06.25-07.52.46:416][ 82]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.46:540][ 85]LogCharacterMovement: BP_Enemy_C_6 is stuck and failed to move! Velocity: X=-13.98 Y=33.93 Z=0.00 Location: X=61.59 Y=-63.82 Z=90.21 Normal: X=0.87 Y=-0.50 Z=-0.00 PenetrationDepth:0.082 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.52.46:611][ 88]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.46:964][ 99]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=220.91 Y=202.98 Z=0.00 Location: X=-24.65 Y=-44.16 Z=90.21 Normal: X=-0.28 Y=-0.96 Z=-0.00 PenetrationDepth:0.177 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.52.47:138][106]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.47:138][106]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.47:529][120]LogCharacterMovement: BP_Enemy_C_6 is stuck and failed to move! Velocity: X=-114.24 Y=277.40 Z=0.00 Location: X=61.59 Y=-63.82 Z=90.21 Normal: X=0.71 Y=-0.70 Z=0.00 PenetrationDepth:3.418 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (34 other events since notify)
+[2022.06.25-07.52.47:915][133]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.48:281][144]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.49:183][174]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=15.99 Y=96.01 Z=0.00 Location: X=19.09 Y=-61.86 Z=90.21 Normal: X=0.85 Y=-0.53 Z=-0.00 PenetrationDepth:0.175 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.52.49:351][179]LogCharacterMovement: BP_Enemy_C_6 is stuck and failed to move! Velocity: X=-287.96 Y=-84.15 Z=0.00 Location: X=48.88 Y=12.72 Z=88.10 Normal: X=0.90 Y=0.27 Z=-0.33 PenetrationDepth:4.627 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (10 other events since notify)
+[2022.06.25-07.52.49:629][189]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.50:284][212]LogCharacterMovement: BP_Enemy_C_7 is stuck and failed to move! Velocity: X=-57.81 Y=243.22 Z=0.00 Location: X=51.35 Y=-72.82 Z=90.21 Normal: X=0.65 Y=-0.76 Z=0.00 PenetrationDepth:1.298 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.52.50:747][231]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.50:968][239]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.51:296][249]LogCharacterMovement: BP_Enemy_C_7 is stuck and failed to move! Velocity: X=-90.56 Y=233.02 Z=0.00 Location: X=61.63 Y=-68.21 Z=90.21 Normal: X=0.58 Y=-0.81 Z=0.00 PenetrationDepth:6.345 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.52.51:339][251]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=54.25 Y=62.92 Z=0.00 Location: X=-4.36 Y=-29.24 Z=90.21 Normal: X=-0.03 Y=-1.00 Z=0.00 PenetrationDepth:0.301 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (27 other events since notify)
+[2022.06.25-07.52.51:547][258]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.52:314][284]LogCharacterMovement: BP_Enemy_C_7 is stuck and failed to move! Velocity: X=-90.56 Y=233.02 Z=0.00 Location: X=61.63 Y=-68.21 Z=90.21 Normal: X=0.30 Y=-0.95 Z=-0.00 PenetrationDepth:20.159 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (34 other events since notify)
+[2022.06.25-07.52.52:573][293]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.52:950][305]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.53:140][311]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.53:301][316]LogCharacterMovement: BP_Enemy_C_7 is stuck and failed to move! Velocity: X=-90.48 Y=233.05 Z=0.00 Location: X=61.61 Y=-68.21 Z=90.21 Normal: X=-0.11 Y=-0.99 Z=-0.00 PenetrationDepth:7.141 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (30 other events since notify)
+[2022.06.25-07.52.53:904][339]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.52.55:782][407]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=164.86 Y=68.98 Z=0.00 Location: X=-8.77 Y=-8.96 Z=90.21 Normal: X=-0.62 Y=-0.78 Z=0.00 PenetrationDepth:1.005 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (17 other events since notify)
+[2022.06.25-07.52.57:203][466]LogCharacterMovement: BP_Enemy_C_10 is stuck and failed to move! Velocity: X=5.49 Y=178.80 Z=0.00 Location: X=30.07 Y=-60.17 Z=90.15 Normal: X=0.36 Y=-0.93 Z=0.00 PenetrationDepth:2.093 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.52.58:232][506]LogCharacterMovement: BP_Enemy_C_10 is stuck and failed to move! Velocity: X=-36.66 Y=247.30 Z=0.00 Location: X=41.61 Y=-56.43 Z=90.15 Normal: X=0.82 Y=-0.57 Z=0.00 PenetrationDepth:0.397 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (32 other events since notify)
+[2022.06.25-07.52.59:133][540]LogCharacterMovement: BP_Enemy_C_7 is stuck and failed to move! Velocity: X=-228.59 Y=-101.22 Z=0.00 Location: X=61.45 Y=20.67 Z=90.21 Normal: X=1.00 Y=-0.07 Z=0.00 PenetrationDepth:1.839 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.52.59:219][543]LogCharacterMovement: BP_Enemy_C_10 is stuck and failed to move! Velocity: X=-46.86 Y=245.57 Z=0.00 Location: X=43.89 Y=-54.01 Z=90.21 Normal: X=0.61 Y=-0.79 Z=-0.00 PenetrationDepth:1.060 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (9 other events since notify)
+[2022.06.25-07.53.00:158][574]LogCharacterMovement: BP_Enemy_C_7 is stuck and failed to move! Velocity: X=-229.03 Y=-100.23 Z=0.00 Location: X=61.46 Y=20.67 Z=90.21 Normal: X=1.00 Y=0.01 Z=0.00 PenetrationDepth:5.190 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.53.00:242][577]LogCharacterMovement: BP_Enemy_C_10 is stuck and failed to move! Velocity: X=-41.49 Y=246.53 Z=0.00 Location: X=42.41 Y=-53.52 Z=90.21 Normal: X=0.53 Y=-0.85 Z=0.00 PenetrationDepth:0.402 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (19 other events since notify)
+[2022.06.25-07.53.01:266][615]LogCharacterMovement: BP_Enemy_C_10 is stuck and failed to move! Velocity: X=-96.13 Y=230.78 Z=0.00 Location: X=55.40 Y=-48.14 Z=90.21 Normal: X=0.55 Y=-0.83 Z=-0.00 PenetrationDepth:7.120 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (25 other events since notify)
+[2022.06.25-07.53.02:297][648]LogCharacterMovement: BP_Enemy_C_10 is stuck and failed to move! Velocity: X=-121.99 Y=218.22 Z=0.00 Location: X=61.57 Y=-44.93 Z=90.21 Normal: X=0.85 Y=-0.52 Z=-0.00 PenetrationDepth:4.430 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (25 other events since notify)
+[2022.06.25-07.53.02:363][651]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.03:291][675]LogCharacterMovement: BP_Enemy_C_10 is stuck and failed to move! Velocity: X=-121.99 Y=218.22 Z=0.00 Location: X=61.57 Y=-44.93 Z=90.21 Normal: X=0.85 Y=-0.53 Z=0.00 PenetrationDepth:5.074 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (26 other events since notify)
+[2022.06.25-07.53.03:320][677]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.04:307][704]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.04:307][704]LogCharacterMovement: BP_Enemy_C_10 is stuck and failed to move! Velocity: X=-122.32 Y=218.03 Z=0.00 Location: X=61.61 Y=-44.81 Z=90.21 Normal: X=0.94 Y=-0.33 Z=0.00 PenetrationDepth:2.540 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (26 other events since notify)
+[2022.06.25-07.53.05:326][734]LogCharacterMovement: BP_Enemy_C_10 is stuck and failed to move! Velocity: X=-122.32 Y=218.03 Z=0.00 Location: X=61.61 Y=-44.81 Z=90.21 Normal: X=0.93 Y=-0.37 Z=0.00 PenetrationDepth:4.285 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (28 other events since notify)
+[2022.06.25-07.53.06:333][769]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=86.43 Y=19.04 Z=0.00 Location: X=-34.14 Y=-6.60 Z=90.21 Normal: X=-0.67 Y=-0.75 Z=-0.00 PenetrationDepth:0.018 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (2 other events since notify)
+[2022.06.25-07.53.06:356][770]LogCharacterMovement: BP_Enemy_C_10 is stuck and failed to move! Velocity: X=-73.81 Y=128.19 Z=0.00 Location: X=61.58 Y=-43.01 Z=90.21 Normal: X=0.59 Y=-0.81 Z=0.00 PenetrationDepth:0.574 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (28 other events since notify)
+[2022.06.25-07.53.07:063][802]LogCharacterMovement: BP_Enemy_C_9 is stuck and failed to move! Velocity: X=19.51 Y=42.08 Z=0.00 Location: X=-6.14 Y=-75.05 Z=90.21 Normal: X=-0.21 Y=-0.98 Z=-0.00 PenetrationDepth:0.696 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.07:332][815]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.07:409][817]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=125.71 Y=21.72 Z=0.00 Location: X=-33.86 Y=-3.59 Z=90.21 Normal: X=-0.67 Y=-0.74 Z=0.00 PenetrationDepth:0.130 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (13 other events since notify)
+[2022.06.25-07.53.08:095][842]LogCharacterMovement: BP_Enemy_C_9 is stuck and failed to move! Velocity: X=83.78 Y=181.61 Z=0.00 Location: X=-6.14 Y=-75.05 Z=90.21 Normal: X=-0.26 Y=-0.96 Z=-0.00 PenetrationDepth:2.978 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (39 other events since notify)
+[2022.06.25-07.53.08:436][854]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=295.61 Y=51.12 Z=0.00 Location: X=-33.86 Y=-3.59 Z=90.21 Normal: X=-0.55 Y=-0.83 Z=-0.00 PenetrationDepth:5.048 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (35 other events since notify)
+[2022.06.25-07.53.09:141][874]LogCharacterMovement: BP_Enemy_C_9 is stuck and failed to move! Velocity: X=83.78 Y=181.61 Z=0.00 Location: X=-6.14 Y=-75.05 Z=90.21 Normal: X=-0.25 Y=-0.97 Z=0.00 PenetrationDepth:3.141 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.53.09:252][878]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.09:936][906]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=41.86 Y=7.04 Z=0.00 Location: X=-32.18 Y=-2.99 Z=90.21 Normal: X=-0.62 Y=-0.79 Z=0.00 PenetrationDepth:0.202 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (26 other events since notify)
+[2022.06.25-07.53.10:055][911]LogCharacterMovement: BP_Enemy_C_10 is stuck and failed to move! Velocity: X=-27.33 Y=-30.02 Z=0.00 Location: X=43.06 Y=17.11 Z=90.21 Normal: X=0.63 Y=-0.78 Z=-0.00 PenetrationDepth:3.556 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (7 other events since notify)
+[2022.06.25-07.53.10:139][914]LogCharacterMovement: BP_Enemy_C_9 is stuck and failed to move! Velocity: X=83.78 Y=181.61 Z=0.00 Location: X=-6.14 Y=-75.05 Z=90.21 Normal: X=-0.26 Y=-0.97 Z=-0.00 PenetrationDepth:2.589 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (39 other events since notify)
+[2022.06.25-07.53.10:935][940]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=298.71 Y=27.74 Z=0.00 Location: X=-32.18 Y=-2.99 Z=90.21 Normal: X=-0.75 Y=-0.66 Z=0.00 PenetrationDepth:1.129 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (33 other events since notify)
+[2022.06.25-07.53.11:167][947]LogCharacterMovement: BP_Enemy_C_9 is stuck and failed to move! Velocity: X=83.78 Y=181.61 Z=0.00 Location: X=-6.14 Y=-75.05 Z=90.21 Normal: X=-0.26 Y=-0.97 Z=-0.00 PenetrationDepth:2.898 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (32 other events since notify)
+[2022.06.25-07.53.11:956][969]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=298.71 Y=27.75 Z=0.00 Location: X=-32.18 Y=-2.99 Z=90.21 Normal: X=-0.65 Y=-0.76 Z=0.00 PenetrationDepth:9.673 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (27 other events since notify)
+[2022.06.25-07.53.12:166][976]LogCharacterMovement: BP_Enemy_C_9 is stuck and failed to move! Velocity: X=83.78 Y=181.61 Z=0.00 Location: X=-6.14 Y=-75.05 Z=90.21 Normal: X=-0.26 Y=-0.97 Z=0.00 PenetrationDepth:2.973 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (28 other events since notify)
+[2022.06.25-07.53.12:985][999]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=298.71 Y=27.75 Z=0.00 Location: X=-32.18 Y=-2.99 Z=90.21 Normal: X=-0.81 Y=-0.59 Z=0.00 PenetrationDepth:4.528 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (29 other events since notify)
+[2022.06.25-07.53.14:019][ 26]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=298.65 Y=28.44 Z=0.00 Location: X=-33.67 Y=-3.21 Z=90.21 Normal: X=-0.84 Y=-0.54 Z=-0.00 PenetrationDepth:6.397 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (26 other events since notify)
+[2022.06.25-07.53.14:297][ 34]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.16:484][ 94]LogCharacterMovement: BP_Enemy_C_9 is stuck and failed to move! Velocity: X=35.10 Y=79.83 Z=0.00 Location: X=0.60 Y=-63.81 Z=90.21 Normal: X=-0.47 Y=-0.88 Z=0.00 PenetrationDepth:0.999 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (11 other events since notify)
+[2022.06.25-07.53.17:495][120]LogCharacterMovement: BP_Enemy_C_9 is stuck and failed to move! Velocity: X=80.49 Y=183.09 Z=0.00 Location: X=0.60 Y=-63.81 Z=90.21 Normal: X=-0.21 Y=-0.98 Z=0.00 PenetrationDepth:7.113 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (22 other events since notify)
+[2022.06.25-07.53.18:326][141]LogCharacterMovement: BP_Enemy_C_12 is stuck and failed to move! Velocity: X=-82.15 Y=162.70 Z=0.00 Location: X=61.56 Y=-50.33 Z=90.21 Normal: X=0.90 Y=-0.43 Z=0.00 PenetrationDepth:0.217 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.19:357][167]LogCharacterMovement: BP_Enemy_C_12 is stuck and failed to move! Velocity: X=-121.32 Y=159.00 Z=0.00 Location: X=61.55 Y=-30.80 Z=90.21 Normal: X=0.95 Y=-0.32 Z=0.00 PenetrationDepth:0.856 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (14 other events since notify)
+[2022.06.25-07.53.19:672][176]LogCharacterMovement: BP_Enemy_C_13 is stuck and failed to move! Velocity: X=83.36 Y=114.44 Z=0.00 Location: X=-26.35 Y=-67.76 Z=90.21 Normal: X=0.18 Y=-0.98 Z=-0.00 PenetrationDepth:0.438 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.19:787][180]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.20:197][191]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.20:345][194]LogCharacterMovement: BP_Enemy_C_14 is stuck and failed to move! Velocity: X=-100.38 Y=172.98 Z=0.00 Location: X=57.43 Y=-35.56 Z=90.21 Normal: X=0.73 Y=-0.68 Z=-0.00 PenetrationDepth:3.197 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.20:702][203]LogCharacterMovement: BP_Enemy_C_13 is stuck and failed to move! Velocity: X=139.30 Y=207.59 Z=0.00 Location: X=-16.35 Y=-64.37 Z=90.21 Normal: X=-0.27 Y=-0.96 Z=0.00 PenetrationDepth:1.427 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (6 other events since notify)
+[2022.06.25-07.53.21:374][220]LogCharacterMovement: BP_Enemy_C_14 is stuck and failed to move! Velocity: X=-119.11 Y=160.66 Z=0.00 Location: X=61.57 Y=-31.91 Z=90.21 Normal: X=0.69 Y=-0.73 Z=0.00 PenetrationDepth:2.596 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (6 other events since notify)
+[2022.06.25-07.53.21:717][229]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.21:859][232]LogCharacterMovement: BP_Enemy_C_13 is stuck and failed to move! Velocity: X=121.51 Y=185.13 Z=0.00 Location: X=-9.68 Y=-56.23 Z=90.21 Normal: X=-0.34 Y=-0.94 Z=0.00 PenetrationDepth:0.159 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (10 other events since notify)
+[2022.06.25-07.53.22:223][242]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.22:378][246]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.22:895][259]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.23:263][268]LogCharacterMovement: BP_Enemy_C_20 is stuck and failed to move! Velocity: X=19.58 Y=127.95 Z=0.00 Location: X=24.23 Y=-62.73 Z=90.21 Normal: X=0.87 Y=-0.50 Z=-0.00 PenetrationDepth:1.234 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.23:376][272]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.23:376][272]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.23:596][277]LogCharacterMovement: BP_Enemy_C_16 is stuck and failed to move! Velocity: X=-214.13 Y=-129.04 Z=0.00 Location: X=61.56 Y=25.58 Z=90.21 Normal: X=0.85 Y=0.53 Z=0.00 PenetrationDepth:0.414 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.23:961][287]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.24:071][290]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.25:520][334]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.25:928][347]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=291.95 Y=69.03 Z=0.00 Location: X=-38.88 Y=-9.19 Z=90.21 Normal: X=-0.42 Y=-0.91 Z=-0.00 PenetrationDepth:1.022 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (5 other events since notify)
+[2022.06.25-07.53.26:038][352]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.26:262][359]LogCharacterMovement: BP_Enemy_C_22 is stuck and failed to move! Velocity: X=-170.54 Y=104.48 Z=0.00 Location: X=61.61 Y=-10.27 Z=90.21 Normal: X=0.94 Y=-0.35 Z=0.00 PenetrationDepth:0.630 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.26:542][369]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.26:641][372]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.26:746][376]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.26:923][382]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=291.95 Y=69.03 Z=0.00 Location: X=-38.88 Y=-9.19 Z=90.21 Normal: X=-0.49 Y=-0.87 Z=-0.00 PenetrationDepth:26.511 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (34 other events since notify)
+[2022.06.25-07.53.27:154][391]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.27:276][395]LogCharacterMovement: BP_Enemy_C_22 is stuck and failed to move! Velocity: X=-170.55 Y=104.47 Z=0.00 Location: X=61.61 Y=-10.27 Z=90.21 Normal: X=0.93 Y=-0.38 Z=-0.00 PenetrationDepth:1.313 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (33 other events since notify)
+[2022.06.25-07.53.27:939][420]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=291.95 Y=69.03 Z=0.00 Location: X=-38.88 Y=-9.19 Z=90.21 Normal: X=-0.58 Y=-0.82 Z=0.00 PenetrationDepth:16.659 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (37 other events since notify)
+[2022.06.25-07.53.28:292][433]LogCharacterMovement: BP_Enemy_C_22 is stuck and failed to move! Velocity: X=-170.55 Y=104.47 Z=0.00 Location: X=61.61 Y=-10.27 Z=90.21 Normal: X=0.93 Y=-0.36 Z=-0.00 PenetrationDepth:2.359 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (37 other events since notify)
+[2022.06.25-07.53.28:648][447]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.28:971][458]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=291.95 Y=69.03 Z=0.00 Location: X=-38.88 Y=-9.19 Z=90.21 Normal: X=-0.58 Y=-0.82 Z=0.00 PenetrationDepth:16.397 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (37 other events since notify)
+[2022.06.25-07.53.32:647][585]LogDerivedDataCache: C:/Users/vr_lab_user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.856 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.25-07.53.32:870][592]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=148.71 Y=67.15 Z=0.00 Location: X=-45.20 Y=-27.11 Z=90.21 Normal: X=-0.87 Y=-0.49 Z=-0.00 PenetrationDepth:0.625 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (10 other events since notify)
+[2022.06.25-07.53.33:875][627]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=273.44 Y=123.41 Z=0.00 Location: X=-43.98 Y=-26.52 Z=90.21 Normal: X=-0.47 Y=-0.88 Z=0.00 PenetrationDepth:0.261 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (30 other events since notify)
+[2022.06.25-07.53.34:093][635]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.34:893][663]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=273.46 Y=123.36 Z=0.00 Location: X=-43.13 Y=-26.12 Z=90.21 Normal: X=-0.24 Y=-0.97 Z=-0.00 PenetrationDepth:7.269 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (33 other events since notify)
+[2022.06.25-07.53.35:907][701]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=273.46 Y=123.36 Z=0.00 Location: X=-43.13 Y=-26.12 Z=90.21 Normal: X=-0.54 Y=-0.84 Z=0.00 PenetrationDepth:3.293 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (37 other events since notify)
+[2022.06.25-07.53.36:081][709]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.36:938][740]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=273.22 Y=123.89 Z=0.00 Location: X=-34.89 Y=-22.56 Z=90.21 Normal: X=-0.44 Y=-0.90 Z=-0.00 PenetrationDepth:6.524 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (22 other events since notify)
+[2022.06.25-07.53.37:954][777]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=273.22 Y=123.89 Z=0.00 Location: X=-34.89 Y=-22.56 Z=90.21 Normal: X=-0.31 Y=-0.95 Z=0.00 PenetrationDepth:13.873 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (36 other events since notify)
+[2022.06.25-07.53.38:959][815]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=273.22 Y=123.89 Z=0.00 Location: X=-34.89 Y=-22.56 Z=90.21 Normal: X=-0.22 Y=-0.97 Z=0.00 PenetrationDepth:11.495 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (37 other events since notify)
+[2022.06.25-07.53.39:961][851]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=273.22 Y=123.89 Z=0.00 Location: X=-34.89 Y=-22.56 Z=90.21 Normal: X=-0.18 Y=-0.98 Z=0.00 PenetrationDepth:10.368 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (35 other events since notify)
+[2022.06.25-07.53.40:987][886]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=273.22 Y=123.90 Z=0.00 Location: X=-34.94 Y=-22.58 Z=90.21 Normal: X=-0.89 Y=-0.45 Z=-0.00 PenetrationDepth:0.022 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (32 other events since notify)
+[2022.06.25-07.53.41:148][893]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.42:026][923]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=273.22 Y=123.90 Z=0.00 Location: X=-34.94 Y=-22.58 Z=90.21 Normal: X=-0.37 Y=-0.93 Z=-0.00 PenetrationDepth:7.368 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (36 other events since notify)
+[2022.06.25-07.53.42:318][933]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.44:881][  0]LogCharacterMovement: BP_Enemy_C_17 is stuck and failed to move! Velocity: X=42.70 Y=92.38 Z=0.00 Location: X=1.33 Y=-67.69 Z=90.21 Normal: X=0.16 Y=-0.99 Z=-0.00 PenetrationDepth:1.615 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.45:514][ 19]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=89.34 Y=14.00 Z=0.00 Location: X=-40.62 Y=-3.58 Z=90.21 Normal: X=-0.79 Y=-0.61 Z=0.00 PenetrationDepth:0.045 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (23 other events since notify)
+[2022.06.25-07.53.46:168][ 37]LogCharacterMovement: BP_Enemy_C_17 is stuck and failed to move! Velocity: X=94.40 Y=231.49 Z=0.00 Location: X=1.81 Y=-66.44 Z=90.21 Normal: X=-0.45 Y=-0.89 Z=-0.00 PenetrationDepth:2.346 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (22 other events since notify)
+[2022.06.25-07.53.47:224][ 65]LogCharacterMovement: BP_Enemy_C_17 is stuck and failed to move! Velocity: X=34.73 Y=72.44 Z=0.00 Location: X=0.50 Y=-58.07 Z=90.21 Normal: X=-0.65 Y=-0.76 Z=-0.00 PenetrationDepth:3.790 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (10 other events since notify)
+[2022.06.25-07.53.49:590][133]LogCharacterMovement: BP_Enemy_C_21 is stuck and failed to move! Velocity: X=-48.20 Y=80.90 Z=0.00 Location: X=61.57 Y=-38.69 Z=90.21 Normal: X=0.81 Y=-0.58 Z=0.00 PenetrationDepth:0.106 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.50:074][147]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.50:198][150]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.50:521][158]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.50:558][159]LogCharacterMovement: BP_Enemy_C_25 is stuck and failed to move! Velocity: X=27.24 Y=40.28 Z=0.00 Location: X=-12.88 Y=-58.68 Z=90.21 Normal: X=-0.32 Y=-0.95 Z=0.00 PenetrationDepth:2.460 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.50:595][160]LogCharacterMovement: BP_Enemy_C_21 is stuck and failed to move! Velocity: X=-133.85 Y=211.15 Z=0.00 Location: X=61.57 Y=-38.70 Z=90.21 Normal: X=0.80 Y=-0.60 Z=0.00 PenetrationDepth:1.071 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (26 other events since notify)
+[2022.06.25-07.53.50:809][166]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.51:234][177]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.51:658][187]LogCharacterMovement: BP_Enemy_C_21 is stuck and failed to move! Velocity: X=-97.14 Y=125.07 Z=0.00 Location: X=55.64 Y=-22.17 Z=90.21 Normal: X=0.68 Y=-0.74 Z=0.00 PenetrationDepth:0.671 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (1 other events since notify)
+[2022.06.25-07.53.52:027][196]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.52:294][202]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.52:474][206]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.52:663][210]LogCharacterMovement: BP_Enemy_C_31 is stuck and failed to move! Velocity: X=-58.75 Y=-81.16 Z=0.00 Location: X=61.58 Y=47.57 Z=90.21 Normal: X=0.73 Y=0.69 Z=0.00 PenetrationDepth:0.362 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.52:744][212]LogCharacterMovement: BP_Enemy_C_27 is stuck and failed to move! Velocity: X=39.49 Y=159.36 Z=0.00 Location: X=22.24 Y=-31.99 Z=90.21 Normal: X=0.89 Y=-0.45 Z=-0.00 PenetrationDepth:0.334 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.53:420][229]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.53.54:152][246]LogCharacterMovement: BP_Enemy_C_32 is stuck and failed to move! Velocity: X=36.47 Y=154.69 Z=0.00 Location: X=24.18 Y=-26.16 Z=90.21 Normal: X=0.77 Y=-0.64 Z=0.00 PenetrationDepth:0.369 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.53.54:924][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.53.54:924][265]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.06.25-07.53.54:978][265]LogSlate: Window 'MediaNight Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR SteamVR/OpenXR (0.1.0)' being destroyed
+[2022.06.25-07.53.54:983][265]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-07.53.54:985][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.53.54:999][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-07.53.55:004][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.53.55:016][265]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.06.25-07.53.55:016][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.25-07.53.55:018][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.25-07.53.55:037][265]LogSlate: Slate User Unregistered.  User Index 8
+[2022.06.25-07.53.55:037][265]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.53.55:041][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.06.25-07.53.55:100][266]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.06.25-07.53.57:816][435]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.25-07.53.57:822][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-07.53.57:822][435]PIE: New page: PIE session: VRTemplateMap (25.06.2022, 11:53:57)
+[2022.06.25-07.53.57:822][435]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.06.25-07.53.57:831][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008784s)
+[2022.06.25-07.53.57:831][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.008880s)
+[2022.06.25-07.53.57:831][435]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-07.53.57:831][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-07.53.57:832][435]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.06.25-07.53.57:832][435]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2022.06.25-07.53.57:844][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.06.25-07.53.57:846][435]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.25-07.53.57:846][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-07.53.57:846][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-07.53.57:846][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-07.53.57:846][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-07.53.57:846][435]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.06.25-07.53.57:846][435]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-07.53.57:846][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.06.25-07.53.57:846][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-07.53.57:846][435]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.06.25-07.53.57:846][435]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.06.25-07.53.57:846][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-07.53.57:849][435]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-07.53.57:922][435]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (2- Rift Audio)
+[2022.06.25-07.53.57:924][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-07.53.57:925][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-07.53.57:925][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-07.53.57:926][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.06.25-07.53.57:926][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.06.25-07.53.57:928][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.06.25-07.53.57:928][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.06.25-07.53.57:929][435]LogInit: FAudioDevice initialized.
+[2022.06.25-07.53.57:929][435]LogAudio: Display: Audio Device (ID: 4) registered with world 'VRTemplateMap'.
+[2022.06.25-07.53.57:949][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.54.02:504][435]LogLoad: Game class is 'VRGameMode_C'
+[2022.06.25-07.54.02:521][435]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.06.25-09.54.02
+[2022.06.25-07.54.02:522][435]LogWorld: Bringing up level for play took: 0.017953
+[2022.06.25-07.54.02:525][435]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.06.25-07.54.02:525][435]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.25-07.54.02:527][435]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.54.02:528][435]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.54.02:544][435]PIE: Server logged in
+[2022.06.25-07.54.02:546][435]PIE: Play in editor total start time 4,725 seconds.
+[2022.06.25-07.54.02:564][435]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.25-07.54.02:639][435]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.06.25-07.54.02:645][435]LogHMD: Error: Failed to create all visibility mask meshes for device/views. Abandoning visibility mask.
+[2022.06.25-07.54.05:435][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.54.05:435][559]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.06.25-07.54.05:503][559]LogSlate: Window 'MediaNight Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR SteamVR/OpenXR (0.1.0)' being destroyed
+[2022.06.25-07.54.05:508][559]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-07.54.05:508][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.54.05:525][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-07.54.05:529][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.54.05:541][559]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.06.25-07.54.05:541][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.06.25-07.54.05:543][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.06.25-07.54.05:551][559]LogSlate: Slate User Unregistered.  User Index 8
+[2022.06.25-07.54.05:551][559]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.54.05:552][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.06.25-07.54.05:616][560]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.06.25-07.55.46:527][763]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.06.25-07.55.46:534][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-07.55.46:534][763]PIE: New page: PIE session: VRTemplateMap (25.06.2022, 11:55:46)
+[2022.06.25-07.55.46:534][763]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.06.25-07.55.46:543][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008848s)
+[2022.06.25-07.55.46:543][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.008972s)
+[2022.06.25-07.55.46:543][763]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-07.55.46:543][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-07.55.46:544][763]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.06.25-07.55.46:544][763]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2022.06.25-07.55.46:555][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.06.25-07.55.46:556][763]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.06.25-07.55.46:557][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-07.55.46:557][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-07.55.46:557][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-07.55.46:557][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-07.55.46:557][763]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.06.25-07.55.46:557][763]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-07.55.46:557][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.06.25-07.55.46:557][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-07.55.46:557][763]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.06.25-07.55.46:557][763]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.06.25-07.55.46:557][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-07.55.46:561][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-07.55.46:652][763]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (2- Rift Audio)
+[2022.06.25-07.55.46:652][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-07.55.46:653][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-07.55.46:653][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-07.55.46:654][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.06.25-07.55.46:654][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.06.25-07.55.46:657][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.06.25-07.55.46:657][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.06.25-07.55.46:657][763]LogInit: FAudioDevice initialized.
+[2022.06.25-07.55.46:657][763]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRTemplateMap'.
+[2022.06.25-07.55.46:680][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.55.47:223][763]LogLoad: Game class is 'VRGameMode_C'
+[2022.06.25-07.55.47:242][763]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.06.25-09.55.47
+[2022.06.25-07.55.47:243][763]LogWorld: Bringing up level for play took: 0.019448
+[2022.06.25-07.55.47:246][763]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.06.25-07.55.47:246][763]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.25-07.55.47:248][763]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.55.47:249][763]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.55.47:266][763]PIE: Server logged in
+[2022.06.25-07.55.47:269][763]PIE: Play in editor total start time 0,735 seconds.
+[2022.06.25-07.55.47:289][763]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.25-07.55.47:362][763]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.06.25-07.55.47:368][763]LogHMD: Error: Failed to create all visibility mask meshes for device/views. Abandoning visibility mask.
+[2022.06.25-07.55.57:537][219]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-30.10 Y=-84.14 Z=0.00 Location: X=61.54 Y=64.75 Z=90.21 Normal: X=-0.56 Y=0.83 Z=0.00 PenetrationDepth:1.984 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.55.58:549][261]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-83.99 Y=-235.47 Z=0.00 Location: X=61.49 Y=64.74 Z=90.21 Normal: X=0.18 Y=0.98 Z=-0.00 PenetrationDepth:2.878 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (38 other events since notify)
+[2022.06.25-07.55.59:554][301]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-83.99 Y=-235.47 Z=0.00 Location: X=61.49 Y=64.74 Z=90.21 Normal: X=0.08 Y=1.00 Z=0.00 PenetrationDepth:3.044 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (39 other events since notify)
+[2022.06.25-07.56.00:585][344]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-83.99 Y=-235.47 Z=0.00 Location: X=61.49 Y=64.74 Z=90.21 Normal: X=0.11 Y=0.99 Z=-0.10 PenetrationDepth:4.704 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (40 other events since notify)
+[2022.06.25-07.56.01:756][392]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.02:859][435]LogCharacterMovement: BP_Enemy_C_5 is stuck and failed to move! Velocity: X=-25.85 Y=-79.58 Z=0.00 Location: X=61.64 Y=74.01 Z=90.21 Normal: X=0.10 Y=1.00 Z=-0.00 PenetrationDepth:0.210 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.04:107][483]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.05:459][521]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.06:907][585]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.11:741][776]LogCharacterMovement: BP_Enemy_C_1 is stuck and failed to move! Velocity: X=200.10 Y=101.75 Z=0.00 Location: X=1.44 Y=-25.66 Z=90.39 Normal: X=-0.88 Y=-0.47 Z=-0.00 PenetrationDepth:0.222 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.12:072][787]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.12:072][787]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.12:436][799]LogCharacterMovement: BP_Enemy_C_0 is stuck and failed to move! Velocity: X=-107.98 Y=-168.34 Z=0.00 Location: X=61.61 Y=32.36 Z=90.21 Normal: X=0.49 Y=0.87 Z=-0.00 PenetrationDepth:1.907 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.12:588][804]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.12:784][810]LogCharacterMovement: BP_Enemy_C_6 is stuck and failed to move! Velocity: X=-59.54 Y=104.31 Z=0.00 Location: X=61.60 Y=-54.69 Z=90.21 Normal: X=0.36 Y=-0.93 Z=-0.00 PenetrationDepth:2.784 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.14:114][857]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.15:901][917]LogCharacterMovement: BP_Enemy_C_6 is stuck and failed to move! Velocity: X=-79.42 Y=50.89 Z=0.00 Location: X=76.98 Y=-29.19 Z=187.43 Normal: X=-0.31 Y=0.01 Z=0.95 PenetrationDepth:0.070 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (6 other events since notify)
+[2022.06.25-07.56.23:924][178]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.24:071][183]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.25:037][218]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.26:569][278]LogCharacterMovement: BP_Enemy_C_0 is stuck and failed to move! Velocity: X=9.63 Y=-86.77 Z=0.00 Location: X=29.19 Y=46.24 Z=90.21 Normal: X=-0.93 Y=0.36 Z=0.00 PenetrationDepth:0.122 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (9 other events since notify)
+[2022.06.25-07.56.26:590][279]LogCharacterMovement: BP_Enemy_C_1 is stuck and failed to move! Velocity: X=247.73 Y=-33.64 Z=0.00 Location: X=-33.48 Y=0.89 Z=88.10 Normal: X=-0.88 Y=0.29 Z=-0.38 PenetrationDepth:0.670 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (20 other events since notify)
+[2022.06.25-07.56.27:520][314]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=-117.12 Y=162.12 Z=0.00 Location: X=61.59 Y=-44.98 Z=89.19 Normal: X=0.78 Y=-0.53 Z=-0.34 PenetrationDepth:0.194 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.27:583][316]LogCharacterMovement: BP_Enemy_C_0 is stuck and failed to move! Velocity: X=7.90 Y=-85.22 Z=0.00 Location: X=30.86 Y=42.47 Z=90.21 Normal: X=-0.95 Y=0.32 Z=0.00 PenetrationDepth:0.174 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (16 other events since notify)
+[2022.06.25-07.56.28:578][352]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=-117.66 Y=161.73 Z=0.00 Location: X=61.57 Y=-44.70 Z=88.25 Normal: X=0.56 Y=-0.62 Z=-0.56 PenetrationDepth:8.659 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (34 other events since notify)
+[2022.06.25-07.56.28:764][358]LogCharacterMovement: BP_Enemy_C_0 is stuck and failed to move! Velocity: X=8.25 Y=-113.96 Z=0.00 Location: X=33.12 Y=34.63 Z=90.21 Normal: X=-0.64 Y=0.77 Z=-0.00 PenetrationDepth:3.200 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (23 other events since notify)
+[2022.06.25-07.56.29:600][385]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=-117.16 Y=162.09 Z=0.00 Location: X=61.60 Y=-44.97 Z=88.24 Normal: X=0.34 Y=-0.94 Z=-0.00 PenetrationDepth:7.093 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.56.30:604][416]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=-112.08 Y=165.64 Z=0.00 Location: X=61.07 Y=-46.67 Z=88.22 Normal: X=0.22 Y=-0.98 Z=-0.00 PenetrationDepth:2.932 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (23 other events since notify)
+[2022.06.25-07.56.31:063][430]LogCharacterMovement: BP_Enemy_C_10 is stuck and failed to move! Velocity: X=85.36 Y=-9.22 Z=0.00 Location: X=-3.43 Y=-4.43 Z=90.21 Normal: X=-1.00 Y=-0.07 Z=-0.00 PenetrationDepth:0.109 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.31:357][440]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.31:712][450]LogCharacterMovement: BP_Enemy_C_4 is stuck and failed to move! Velocity: X=-39.80 Y=58.82 Z=0.00 Location: X=61.07 Y=-46.67 Z=88.22 Normal: X=0.43 Y=-0.90 Z=0.00 PenetrationDepth:12.374 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.56.32:368][470]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.32:705][480]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.32:720][480]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-64.08 Y=241.65 Z=0.00 Location: X=47.86 Y=-55.90 Z=90.21 Normal: X=-0.43 Y=-0.90 Z=0.00 PenetrationDepth:4.509 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.33:643][508]LogCharacterMovement: BP_Enemy_C_9 is stuck and failed to move! Velocity: X=184.09 Y=-78.18 Z=0.00 Location: X=-10.45 Y=10.81 Z=88.06 Normal: X=-0.72 Y=0.38 Z=-0.58 PenetrationDepth:4.963 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.33:745][511]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-70.65 Y=239.81 Z=0.00 Location: X=49.24 Y=-55.86 Z=90.21 Normal: X=0.50 Y=-0.87 Z=-0.00 PenetrationDepth:13.166 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (21 other events since notify)
+[2022.06.25-07.56.34:141][525]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.34:672][543]LogCharacterMovement: BP_Enemy_C_9 is stuck and failed to move! Velocity: X=184.61 Y=-76.92 Z=0.00 Location: X=-12.62 Y=11.35 Z=88.06 Normal: X=-0.58 Y=0.43 Z=-0.69 PenetrationDepth:6.830 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (32 other events since notify)
+[2022.06.25-07.56.34:778][546]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-123.63 Y=217.29 Z=0.00 Location: X=61.58 Y=-54.76 Z=90.21 Normal: X=0.86 Y=-0.51 Z=-0.00 PenetrationDepth:0.818 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (27 other events since notify)
+[2022.06.25-07.56.34:910][551]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.35:118][558]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.35:179][560]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.35:768][582]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-123.63 Y=217.29 Z=0.00 Location: X=61.58 Y=-54.76 Z=90.21 Normal: X=0.77 Y=-0.63 Z=0.00 PenetrationDepth:3.978 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (35 other events since notify)
+[2022.06.25-07.56.35:936][588]LogCharacterMovement: BP_Enemy_C_12 is stuck and failed to move! Velocity: X=143.47 Y=62.56 Z=0.00 Location: X=-10.45 Y=-28.20 Z=89.58 Normal: X=-0.78 Y=-0.50 Z=-0.39 PenetrationDepth:0.084 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.35:981][590]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.36:004][591]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.36:769][618]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-123.48 Y=217.38 Z=0.00 Location: X=61.62 Y=-54.92 Z=90.19 Normal: X=0.68 Y=-0.74 Z=-0.00 PenetrationDepth:6.436 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (35 other events since notify)
+[2022.06.25-07.56.37:796][652]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-123.08 Y=217.60 Z=0.00 Location: X=61.58 Y=-55.04 Z=90.19 Normal: X=-0.11 Y=-0.99 Z=0.00 PenetrationDepth:6.250 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (33 other events since notify)
+[2022.06.25-07.56.38:116][663]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.38:729][683]LogCharacterMovement: BP_Enemy_C_14 is stuck and failed to move! Velocity: X=44.37 Y=12.94 Z=0.00 Location: X=-21.05 Y=-25.14 Z=90.21 Normal: X=-0.89 Y=-0.46 Z=-0.00 PenetrationDepth:0.143 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.38:776][685]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.38:790][685]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-122.96 Y=217.67 Z=0.00 Location: X=61.62 Y=-55.18 Z=90.19 Normal: X=0.74 Y=-0.67 Z=0.00 PenetrationDepth:9.614 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (32 other events since notify)
+[2022.06.25-07.56.39:795][717]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-119.22 Y=219.74 Z=0.00 Location: X=61.53 Y=-56.97 Z=90.19 Normal: X=0.87 Y=-0.49 Z=-0.00 PenetrationDepth:6.046 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (29 other events since notify)
+[2022.06.25-07.56.40:814][752]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-119.11 Y=219.80 Z=0.00 Location: X=61.53 Y=-56.99 Z=90.19 Normal: X=0.95 Y=-0.32 Z=0.00 PenetrationDepth:11.509 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (34 other events since notify)
+[2022.06.25-07.56.41:045][760]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.41:277][768]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.41:846][786]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-119.22 Y=219.74 Z=0.00 Location: X=61.55 Y=-56.97 Z=90.19 Normal: X=0.78 Y=-0.63 Z=-0.00 PenetrationDepth:12.213 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (32 other events since notify)
+[2022.06.25-07.56.41:958][790]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.42:483][807]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.42:874][819]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-119.12 Y=219.80 Z=0.00 Location: X=61.62 Y=-57.14 Z=90.19 Normal: X=0.89 Y=-0.45 Z=0.00 PenetrationDepth:8.263 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.56.43:532][840]LogCharacterMovement: BP_Enemy_C_18 is stuck and failed to move! Velocity: X=101.89 Y=96.68 Z=0.00 Location: X=-16.58 Y=-56.32 Z=90.21 Normal: X=-0.74 Y=-0.67 Z=-0.00 PenetrationDepth:0.685 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.43:852][851]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.43:930][853]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-28.86 Y=53.25 Z=0.00 Location: X=61.62 Y=-57.14 Z=90.19 Normal: X=0.42 Y=-0.91 Z=0.00 PenetrationDepth:6.344 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (32 other events since notify)
+[2022.06.25-07.56.44:548][874]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.44:940][886]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-119.12 Y=219.80 Z=0.00 Location: X=61.62 Y=-57.14 Z=90.19 Normal: X=0.91 Y=-0.42 Z=-0.00 PenetrationDepth:10.216 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.56.44:989][888]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.45:092][891]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.45:342][898]LogCharacterMovement: BP_Enemy_C_17 is stuck and failed to move! Velocity: X=153.52 Y=128.18 Z=0.00 Location: X=-23.51 Y=-57.91 Z=90.21 Normal: X=-0.67 Y=-0.74 Z=-0.00 PenetrationDepth:1.841 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.45:971][918]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-119.12 Y=219.80 Z=0.00 Location: X=61.62 Y=-57.14 Z=90.19 Normal: X=0.98 Y=-0.21 Z=-0.00 PenetrationDepth:7.877 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.56.46:333][930]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.46:728][942]LogCharacterMovement: BP_Enemy_C_20 is stuck and failed to move! Velocity: X=97.11 Y=96.68 Z=0.00 Location: X=-18.30 Y=-58.66 Z=90.21 Normal: X=-0.53 Y=-0.85 Z=-0.00 PenetrationDepth:0.259 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.46:965][950]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-118.98 Y=219.87 Z=0.00 Location: X=61.62 Y=-57.23 Z=90.19 Normal: X=0.90 Y=-0.44 Z=-0.00 PenetrationDepth:2.840 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.56.47:011][952]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.47:810][976]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.47:993][981]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-118.49 Y=220.14 Z=0.00 Location: X=61.63 Y=-57.49 Z=90.19 Normal: X=0.87 Y=-0.49 Z=-0.00 PenetrationDepth:6.029 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (30 other events since notify)
+[2022.06.25-07.56.48:362][992]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.48:782][  6]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.49:133][ 16]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-22.89 Y=49.65 Z=0.00 Location: X=61.53 Y=-56.65 Z=90.21 Normal: X=0.90 Y=-0.43 Z=-0.00 PenetrationDepth:2.308 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (21 other events since notify)
+[2022.06.25-07.56.49:242][ 20]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.49:364][ 23]LogCharacterMovement: BP_Enemy_C_21 is stuck and failed to move! Velocity: X=27.63 Y=39.04 Z=0.00 Location: X=-13.51 Y=-77.39 Z=90.21 Normal: X=-0.46 Y=-0.89 Z=-0.00 PenetrationDepth:2.934 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.50:219][ 51]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-61.89 Y=114.98 Z=0.00 Location: X=59.51 Y=-53.59 Z=90.21 Normal: X=0.32 Y=-0.95 Z=-0.00 PenetrationDepth:0.002 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (20 other events since notify)
+[2022.06.25-07.56.50:250][ 53]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.50:479][ 61]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.51:018][ 78]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.51:218][ 84]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-117.37 Y=220.73 Z=0.00 Location: X=59.23 Y=-53.58 Z=90.21 Normal: X=0.32 Y=-0.95 Z=0.00 PenetrationDepth:1.220 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (10 other events since notify)
+[2022.06.25-07.56.51:462][ 93]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.56.51:794][103]LogCharacterMovement: BP_Enemy_C_21 is stuck and failed to move! Velocity: X=124.27 Y=47.82 Z=0.00 Location: X=-25.17 Y=-31.91 Z=90.21 Normal: X=-0.83 Y=-0.56 Z=0.00 PenetrationDepth:0.003 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (5 other events since notify)
+[2022.06.25-07.56.51:874][106]LogCharacterMovement: BP_Enemy_C_20 is stuck and failed to move! Velocity: X=-124.86 Y=-156.24 Z=0.00 Location: X=61.18 Y=23.48 Z=90.21 Normal: X=0.99 Y=0.17 Z=-0.00 PenetrationDepth:4.570 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (5 other events since notify)
+[2022.06.25-07.56.52:233][118]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-123.01 Y=217.64 Z=0.00 Location: X=61.56 Y=-55.05 Z=90.21 Normal: X=1.00 Y=-0.05 Z=-0.00 PenetrationDepth:2.980 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.56.53:165][148]LogCharacterMovement: BP_Enemy_C_22 is stuck and failed to move! Velocity: X=25.02 Y=37.46 Z=0.00 Location: X=-11.61 Y=-79.78 Z=90.21 Normal: X=0.19 Y=-0.98 Z=0.00 PenetrationDepth:1.285 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.56.54:389][187]LogCharacterMovement: BP_Enemy_C_22 is stuck and failed to move! Velocity: X=111.66 Y=154.29 Z=0.00 Location: X=-13.27 Y=-75.75 Z=90.21 Normal: X=0.06 Y=-1.00 Z=0.00 PenetrationDepth:0.846 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (21 other events since notify)
+[2022.06.25-07.56.54:725][198]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-21.09 Y=38.74 Z=0.00 Location: X=60.51 Y=-54.88 Z=90.21 Normal: X=0.35 Y=-0.94 Z=-0.00 PenetrationDepth:0.059 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (2 other events since notify)
+[2022.06.25-07.56.55:104][210]LogCharacterMovement: BP_Enemy_C_20 is stuck and failed to move! Velocity: X=-57.00 Y=-73.18 Z=0.00 Location: X=60.37 Y=24.15 Z=90.21 Normal: X=0.32 Y=0.95 Z=0.00 PenetrationDepth:1.991 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (4 other events since notify)
+[2022.06.25-07.56.55:853][234]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-123.43 Y=217.41 Z=0.00 Location: X=61.60 Y=-54.90 Z=90.21 Normal: X=0.55 Y=-0.83 Z=-0.00 PenetrationDepth:0.633 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (30 other events since notify)
+[2022.06.25-07.56.56:106][242]LogCharacterMovement: BP_Enemy_C_20 is stuck and failed to move! Velocity: X=-118.83 Y=-160.87 Z=0.00 Location: X=61.55 Y=26.87 Z=90.21 Normal: X=0.49 Y=0.87 Z=-0.00 PenetrationDepth:5.312 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (30 other events since notify)
+[2022.06.25-07.56.56:872][266]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-124.45 Y=216.82 Z=0.00 Location: X=59.23 Y=-50.27 Z=90.21 Normal: X=-0.39 Y=-0.92 Z=0.00 PenetrationDepth:4.787 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (25 other events since notify)
+[2022.06.25-07.56.57:121][274]LogCharacterMovement: BP_Enemy_C_20 is stuck and failed to move! Velocity: X=-118.83 Y=-160.87 Z=0.00 Location: X=61.55 Y=26.87 Z=90.21 Normal: X=0.23 Y=0.97 Z=-0.00 PenetrationDepth:12.610 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.56.57:891][299]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-124.45 Y=216.82 Z=0.00 Location: X=59.23 Y=-50.27 Z=90.21 Normal: X=-0.31 Y=-0.95 Z=-0.00 PenetrationDepth:4.575 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (32 other events since notify)
+[2022.06.25-07.56.58:893][334]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-124.45 Y=216.82 Z=0.00 Location: X=59.23 Y=-50.27 Z=90.21 Normal: X=-0.31 Y=-0.95 Z=0.00 PenetrationDepth:4.344 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (34 other events since notify)
+[2022.06.25-07.56.59:938][368]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-119.91 Y=219.37 Z=0.00 Location: X=60.52 Y=-54.72 Z=90.21 Normal: X=0.55 Y=-0.83 Z=-0.00 PenetrationDepth:1.216 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (31 other events since notify)
+[2022.06.25-07.57.00:443][383]LogCharacterMovement: BP_Enemy_C_21 is stuck and failed to move! Velocity: X=83.95 Y=-19.49 Z=0.00 Location: X=-19.28 Y=3.94 Z=90.21 Normal: X=-0.99 Y=-0.11 Z=-0.00 PenetrationDepth:3.640 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (21 other events since notify)
+[2022.06.25-07.57.03:081][467]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-156.69 Y=157.13 Z=0.00 Location: X=44.38 Y=-17.53 Z=161.62 Normal: X=0.88 Y=-0.22 Z=0.42 PenetrationDepth:1.733 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (1 other events since notify)
+[2022.06.25-07.57.03:102][468]LogCharacterMovement: BP_Enemy_C_22 is stuck and failed to move! Velocity: X=119.91 Y=40.27 Z=0.00 Location: X=-32.33 Y=-28.07 Z=90.21 Normal: X=-0.68 Y=-0.73 Z=0.00 PenetrationDepth:0.713 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (5 other events since notify)
+[2022.06.25-07.57.04:778][521]LogCharacterMovement: BP_Enemy_C_28 is stuck and failed to move! Velocity: X=62.91 Y=64.90 Z=0.00 Location: X=-21.43 Y=-66.47 Z=90.21 Normal: X=-0.15 Y=-0.99 Z=-0.00 PenetrationDepth:0.380 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.57.04:967][527]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-30.39 Y=32.85 Z=0.00 Location: X=43.65 Y=-17.63 Z=156.87 Normal: X=0.91 Y=0.37 Z=0.17 PenetrationDepth:0.799 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.57.05:055][530]LogCharacterMovement: BP_Enemy_C_11 is stuck and failed to move! Velocity: X=13.74 Y=-85.34 Z=0.00 Location: X=24.82 Y=56.64 Z=90.21 Normal: X=-0.63 Y=0.77 Z=-0.00 PenetrationDepth:0.044 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.57.05:764][551]LogCharacterMovement: BP_Enemy_C_28 is stuck and failed to move! Velocity: X=175.12 Y=178.42 Z=0.00 Location: X=-21.51 Y=-66.52 Z=90.21 Normal: X=0.41 Y=-0.91 Z=-0.00 PenetrationDepth:41.171 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (29 other events since notify)
+[2022.06.25-07.57.06:207][564]LogCharacterMovement: BP_Enemy_C_8 is stuck and failed to move! Velocity: X=-58.30 Y=63.31 Z=0.00 Location: X=43.62 Y=-17.63 Z=157.01 Normal: X=0.72 Y=0.69 Z=0.07 PenetrationDepth:0.442 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.57.06:417][571]LogCharacterMovement: BP_Enemy_C_11 is stuck and failed to move! Velocity: X=15.23 Y=-91.67 Z=0.00 Location: X=24.90 Y=56.29 Z=90.21 Normal: X=-0.61 Y=0.79 Z=0.00 PenetrationDepth:0.038 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (4 other events since notify)
+[2022.06.25-07.57.06:773][582]LogCharacterMovement: BP_Enemy_C_28 is stuck and failed to move! Velocity: X=175.12 Y=178.42 Z=0.00 Location: X=-21.51 Y=-66.52 Z=90.21 Normal: X=-0.86 Y=-0.52 Z=-0.00 PenetrationDepth:1.409 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (29 other events since notify)
+[2022.06.25-07.57.07:442][602]LogCharacterMovement: BP_Enemy_C_11 is stuck and failed to move! Velocity: X=47.49 Y=-296.22 Z=0.00 Location: X=24.96 Y=56.04 Z=90.21 Normal: X=-0.63 Y=0.78 Z=0.00 PenetrationDepth:0.437 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (25 other events since notify)
+[2022.06.25-07.57.07:773][612]LogCharacterMovement: BP_Enemy_C_24 is stuck and failed to move! Velocity: X=-18.55 Y=90.01 Z=0.00 Location: X=57.03 Y=-68.76 Z=90.21 Normal: X=0.22 Y=-0.98 Z=-0.00 PenetrationDepth:0.742 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (0 other events since notify)
+[2022.06.25-07.57.08:774][645]LogCharacterMovement: BP_Enemy_C_24 is stuck and failed to move! Velocity: X=-93.01 Y=232.05 Z=0.00 Location: X=57.17 Y=-63.14 Z=90.21 Normal: X=0.02 Y=-0.96 Z=-0.27 PenetrationDepth:2.867 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (18 other events since notify)
+[2022.06.25-07.57.08:799][646]LogCharacterMovement: BP_Enemy_C_11 is stuck and failed to move! Velocity: X=136.18 Y=-267.31 Z=0.00 Location: X=26.32 Y=9.05 Z=90.23 Normal: X=-0.99 Y=0.10 Z=0.00 PenetrationDepth:2.543 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (4 other events since notify)
+[2022.06.25-07.57.09:792][678]LogCharacterMovement: BP_Enemy_C_24 is stuck and failed to move! Velocity: X=-93.01 Y=232.05 Z=0.00 Location: X=57.17 Y=-63.14 Z=90.21 Normal: X=0.49 Y=-0.54 Z=-0.69 PenetrationDepth:5.485 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (32 other events since notify)
+[2022.06.25-07.57.10:463][699]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.57.10:847][709]LogCharacterMovement: BP_Enemy_C_24 is stuck and failed to move! Velocity: X=-31.09 Y=77.57 Z=0.00 Location: X=57.17 Y=-63.14 Z=90.21 Normal: X=0.52 Y=-0.39 Z=-0.76 PenetrationDepth:11.098 Actor:Pistol_01 Component:SkeletalMeshGun BoneName:Grip_Bone (27 other events since notify)
+[2022.06.25-07.57.11:017][715]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.57.13:907][799]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.57.13:997][802]LogAudioMixer: Warning: Decoder Error, stopping source [Explosion01]
+[2022.06.25-07.57.14:109][804]LogCharacterMovement: BP_Enemy_C_11 is stuck and failed to move! Velocity: X=-64.57 Y=-66.10 Z=0.00 Location: X=39.05 Y=-4.81 Z=90.21 Normal: X=-0.38 Y=0.93 Z=0.00 PenetrationDepth:2.263 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (28 other events since notify)
+[2022.06.25-07.57.15:143][833]LogCharacterMovement: BP_Enemy_C_11 is stuck and failed to move! Velocity: X=-156.88 Y=-160.58 Z=0.00 Location: X=39.05 Y=-4.81 Z=90.21 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:4.715 Actor:Pistol_00 Component:SkeletalMeshGun BoneName:Grip_Bone (28 other events since notify)
+[2022.06.25-07.57.28:870][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.57.28:870][159]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.06.25-07.57.28:915][159]LogSlate: Window 'MediaNight Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR SteamVR/OpenXR (0.1.0)' being destroyed
+[2022.06.25-07.57.28:920][159]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-07.57.28:923][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.57.28:937][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-07.57.28:941][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.57.28:954][159]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.06.25-07.57.28:954][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.06.25-07.57.28:956][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.06.25-07.57.28:976][159]LogSlate: Slate User Unregistered.  User Index 8
+[2022.06.25-07.57.28:976][159]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.57.28:977][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.06.25-07.57.29:054][160]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.06.25-07.57.55:835][ 74]LogMaterial: Display: Missing cached shadermap for BaseMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 545DAD106C67233EFD2982215E33E1AA78AB5AFD), compiling. 
+[2022.06.25-07.57.55:915][ 74]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2022.06.25-07.57.56:083][ 74]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-07.57.56:219][ 74]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2022.06.25-07.57.56:315][ 74]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.06.25-07.57.57:261][ 74]LogViewport: Scene viewport resized to 2198x1226, mode Windowed.
+[2022.06.25-07.58.04:145][286]LogSlate: Window 'FirstPersonProjectileMesh' being destroyed
+[2022.06.25-07.58.04:156][286]LogSlate: Window 'FirstPersonProjectileMesh' being destroyed
+[2022.06.25-07.58.04:217][286]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-07.58.04:218][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.58.11:698][640]LogShaderCompilers: Display: ================================================
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Total job queries 77, among them cache hits 3 (3.90%)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Tracking 39 distinct input hashes that result in 23 distinct outputs (58.97%)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Shaders Compiled: 74
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Jobs assigned 74, completed 39 (52.70%)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Average time worker was idle: 339.90 s
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Job execution time: average 25.36 s, max 32.37 s
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Job life time (pending + execution): average 25.39 s, max 32.40
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 48.21 s
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 4.63 jobs/batch
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Average processing rate: 0.81 jobs/sec
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Effective parallelization: 4.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 8.15 sec, max 8.25 sec, min 8.04 sec)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 8.02 sec, max 8.02 sec, min 8.02 sec)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 7.96 sec, max 8.23 sec, min 7.73 sec)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 7.91 sec, max 8.00 sec, min 7.82 sec)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 7.88 sec, max 7.99 sec, min 7.76 sec)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 11.21% of total time (compiled    3 times, average 7.96 sec, max 8.23 sec, min 7.73 sec)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.30% of total time (compiled    3 times, average 7.32 sec, max 7.73 sec, min 6.63 sec)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.64% of total time (compiled    2 times, average 8.15 sec, max 8.25 sec, min 8.04 sec)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.42% of total time (compiled    2 times, average 7.91 sec, max 8.00 sec, min 7.82 sec)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.39% of total time (compiled    2 times, average 7.88 sec, max 7.99 sec, min 7.76 sec)
+[2022.06.25-07.58.11:699][640]LogShaderCompilers: Display: ================================================
+[2022.06.25-07.58.37:880][439]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn_Simple) ...
+[2022.06.25-07.58.41:181][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gamefiles/Enemy/BP_Enemy.BP_Enemy
+[2022.06.25-07.58.41:199][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000

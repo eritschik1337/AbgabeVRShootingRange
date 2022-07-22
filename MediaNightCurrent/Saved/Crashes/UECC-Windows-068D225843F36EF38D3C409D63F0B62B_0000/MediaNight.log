@@ -1,0 +1,1250 @@
+﻿Log file open, 06/25/22 09:46:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=11468)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MediaNight
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\MediaNight.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (Release 1803) [10.0.17134.2208] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="0bc7b5a345f497c3630b99bde31b1a8e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.786799
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-068D225843F36EF38D3C409D63F0B62B
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.06 seconds
+LogConfig: Display: Loading Unix ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OculusVR
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed loading OVRPlugin 1.65.0
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (Release 1803) [10.0.17134.2208] (), CPU: Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: G:/Programme/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:None]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:None]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[r.Mobile.AllowSoftwareOcclusion:0]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[r.VT.EnableCompressZlib:1]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[r.VT.EnableCompressCrunch:0]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[r.DistanceFieldBuild.EightBit:0]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[r.GenerateLandscapeGIData:0]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[r.DistanceFieldBuild.Compress:0]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[r.EyeAdaptation.EditorOnly:0]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[r.SSGI.Enable:0]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[r.SupportAtmosphericFog:1]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[r.LightPropagationVolume:0]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.06.25-07.46.54:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.06.25-07.46.54:622][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.06.25-07.46.54:622][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.06.25-07.46.54:623][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.06.25-07.46.54:627][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.06.25-07.46.54:627][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.06.25-07.46.54:627][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.06.25-07.46.54:627][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.06.25-07.46.54:627][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.06.25-07.46.54:627][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.06.25-07.46.54:627][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.06.25-07.46.54:627][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.06.25-07.46.54:627][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.06.25-07.46.54:627][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.06.25-07.46.54:627][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.06.25-07.46.54:666][  0]LogD3D12RHI: Aftermath initialized
+[2022.06.25-07.46.54:666][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.06.25-07.46.54:691][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.06.25-07.47.14:718][  0]LogHMD: Failed to create an OpenXR instance, result is XR_ERROR_RUNTIME_FAILURE. Please check if you have an OpenXR runtime installed. The following extensions were enabled:
+[2022.06.25-07.47.14:718][  0]LogHMD: - XR_KHR_D3D11_enable
+[2022.06.25-07.47.14:718][  0]LogHMD: - XR_KHR_D3D12_enable
+[2022.06.25-07.47.14:718][  0]LogHMD: - XR_KHR_opengl_enable
+[2022.06.25-07.47.14:718][  0]LogHMD: - XR_KHR_vulkan_enable
+[2022.06.25-07.47.14:718][  0]LogHMD: - XR_KHR_composition_layer_depth
+[2022.06.25-07.47.14:718][  0]LogHMD: - XR_KHR_visibility_mask
+[2022.06.25-07.47.14:718][  0]LogHMD: - XR_KHR_binding_modification
+[2022.06.25-07.47.14:718][  0]LogHMD: - XR_EXT_dpad_binding
+[2022.06.25-07.47.14:872][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 980 Ti (Max supported Feature Level 12_1, shader model 6.2)
+[2022.06.25-07.47.14:894][  0]LogD3D12RHI: Adapter has 6097MB of dedicated video memory, 0MB of dedicated system memory, and 16303MB of shared system memory, 1 output[s]
+[2022.06.25-07.47.14:917][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.1)
+[2022.06.25-07.47.14:917][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16303MB of shared system memory, 0 output[s]
+[2022.06.25-07.47.14:917][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock on older versions of Windows.
+[2022.06.25-07.47.14:942][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.06.25-07.47.14:943][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.25-07.47.14:943][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.06.25-07.47.14:943][  0]LogHAL: Display: Platform has ~ 32 GB [34190995456 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.25-07.47.14:943][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.06.25-07.47.14:943][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.06.25-07.47.14:943][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.25-07.47.14:943][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.06.25-07.47.14:943][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Saved/Config/WindowsEditor/Editor.ini]
+[2022.06.25-07.47.14:943][  0]LogInit: Computer: r148-133
+[2022.06.25-07.47.14:943][  0]LogInit: User: vrlabuser
+[2022.06.25-07.47.14:943][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.06.25-07.47.14:943][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.25-07.47.14:943][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.06.25-07.47.14:943][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.06.25-07.47.14:943][  0]LogMemory: Process Physical Memory: 275.81 MB used, 286.81 MB peak
+[2022.06.25-07.47.14:943][  0]LogMemory: Process Virtual Memory: 248.98 MB used, 248.98 MB peak
+[2022.06.25-07.47.14:944][  0]LogMemory: Physical Memory: 6256.04 MB used,  26351.03 MB free, 32607.07 MB total
+[2022.06.25-07.47.14:944][  0]LogMemory: Virtual Memory: 9991.32 MB used,  27479.75 MB free, 37471.07 MB total
+[2022.06.25-07.47.14:944][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.06.25-07.47.14:951][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.25-07.47.14:973][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.06.25-07.47.14:974][  0]LogInit: Using OS detected language (de-DE).
+[2022.06.25-07.47.14:974][  0]LogInit: Using OS detected locale (de-DE).
+[2022.06.25-07.47.14:979][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so 'de' will be used for the language.
+[2022.06.25-07.47.14:980][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/de/Editor.locres' could not be opened for reading!
+[2022.06.25-07.47.14:980][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/de/EditorTutorials.locres' could not be opened for reading!
+[2022.06.25-07.47.14:980][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/de/Keywords.locres' could not be opened for reading!
+[2022.06.25-07.47.14:980][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/de/Category.locres' could not be opened for reading!
+[2022.06.25-07.47.14:980][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/de/ToolTips.locres' could not be opened for reading!
+[2022.06.25-07.47.14:980][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/de/PropertyNames.locres' could not be opened for reading!
+[2022.06.25-07.47.14:980][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/de/Engine.locres' could not be opened for reading!
+[2022.06.25-07.47.14:981][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.25-07.47.14:993][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.06.25-07.47.14:993][  0]LogWindowsTextInputMethodSystem:   - Deutsch (Deutschland) - (Keyboard).
+[2022.06.25-07.47.14:993][  0]LogWindowsTextInputMethodSystem:   - Deutsch (Deutschland) - Fingereingabe - Korrektur (TSF IME).
+[2022.06.25-07.47.14:993][  0]LogWindowsTextInputMethodSystem:   - Englisch (Vereinigte Staaten) - (Keyboard).
+[2022.06.25-07.47.14:993][  0]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2022.06.25-07.47.15:012][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.25-07.47.15:012][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.25-07.47.15:210][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.06.25-07.47.15:237][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.06.25-07.47.15:237][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.06.25-07.47.15:327][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.06.25-07.47.15:327][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.06.25-07.47.15:327][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.06.25-07.47.15:327][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.06.25-07.47.15:327][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.06.25-07.47.15:327][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.06.25-07.47.15:327][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2022.06.25-07.47.15:452][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.06.25-07.47.15:461][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.06.25-07.47.15:479][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.06.25-07.47.15:836][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.06.25-07.47.15:836][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.06.25-07.47.15:920][  0]LogD3D12RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.25-07.47.15:920][  0]LogWindows: Attached monitors:
+[2022.06.25-07.47.15:920][  0]LogWindows:     resolution: 4096x2160, work area: (0, 0) -> (4096, 2100), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.06.25-07.47.15:920][  0]LogWindows: Found 1 attached monitors.
+[2022.06.25-07.47.15:920][  0]LogWindows: EnumDisplayDevices:
+[2022.06.25-07.47.15:921][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.06.25-07.47.15:921][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.06.25-07.47.15:922][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.06.25-07.47.15:922][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.06.25-07.47.15:922][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.06.25-07.47.15:922][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2022.06.25-07.47.15:922][  0]LogD3D12RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2022.06.25-07.47.15:922][  0]LogD3D12RHI:      Driver Date: 9-30-2020
+[2022.06.25-07.47.15:922][  0]LogRHI: Texture pool is 3265 MB (70% of 4664 MB)
+[2022.06.25-07.47.15:922][  0]LogD3D12RHI: Async texture creation enabled
+[2022.06.25-07.47.15:922][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.06.25-07.47.15:946][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.06.25-07.47.38:298][  0]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2022.06.25-07.47.38:303][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues.
+Please install either the latest or the recommended driver version.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 980 Ti
+Installed: 456.71
+Recommended: 511.79
+[2022.06.25-07.47.38:311][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/MediaNight.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/TurnkeyReport_0.log" -log="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/TurnkeyLog_0.log" -project="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/MediaNight.uproject"  -platform=all'
+[2022.06.25-07.47.38:311][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""G:/Programme/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/MediaNight.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/TurnkeyReport_0.log" -log="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/TurnkeyLog_0.log" -project="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/MediaNight.uproject"  -platform=all" ]
+[2022.06.25-07.47.38:339][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.06.25-07.47.38:349][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.06.25-07.47.38:349][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.06.25-07.47.38:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.25-07.47.38:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.25-07.47.38:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.25-07.47.38:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.25-07.47.38:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.25-07.47.38:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.25-07.47.38:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.25-07.47.38:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.25-07.47.38:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.25-07.47.38:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.25-07.47.38:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.06.25-07.47.38:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.06.25-07.47.38:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.25-07.47.38:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.25-07.47.38:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.25-07.47.38:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.06.25-07.47.38:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.25-07.47.38:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.25-07.47.38:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.06.25-07.47.38:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.06.25-07.47.38:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.06.25-07.47.38:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.25-07.47.38:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.25-07.47.38:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.25-07.47.38:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.06.25-07.47.38:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.25-07.47.38:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.25-07.47.38:409][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.06.25-07.47.38:419][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.25-07.47.38:423][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.06.25-07.47.38:423][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.06.25-07.47.38:423][  0]LogTargetPlatformManager:   ADPCM
+[2022.06.25-07.47.38:423][  0]LogTargetPlatformManager:   PCM
+[2022.06.25-07.47.38:426][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.06.25-07.47.38:426][  0]LogTargetPlatformManager:   BINKA
+[2022.06.25-07.47.38:426][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.06.25-07.47.38:426][  0]LogTargetPlatformManager:   OGG
+[2022.06.25-07.47.38:426][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.06.25-07.47.38:426][  0]LogTargetPlatformManager:   OPUS
+[2022.06.25-07.47.38:498][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2022.06.25-07.47.38:499][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   SF_METAL
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.06.25-07.47.38:507][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.06.25-07.47.38:511][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.06.25-07.47.38:511][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.06.25-07.47.38:511][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.06.25-07.47.38:511][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.06.25-07.47.38:511][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.06.25-07.47.38:511][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.06.25-07.47.38:511][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.06.25-07.47.38:511][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.25-07.47.38:512][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.25-07.47.38:513][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.25-07.47.38:514][  0]LogShaderCompilers: Display: Shader autogen file written: C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.25-07.47.38:514][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.25-07.47.38:515][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.25-07.47.38:516][  0]LogShaderCompilers: Display: Shader autogen file written: C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.25-07.47.38:519][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.25-07.47.38:520][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.06.25-07.47.38:520][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.25-07.47.38:520][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.06.25-07.47.38:543][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.06.25-07.47.38:543][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.25-07.47.38:543][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.06.25-07.47.38:554][  0]LogDerivedDataCache: Speed tests for C:/Users/vr_lab_user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.25-07.47.38:555][  0]LogDerivedDataCache: Display: Performance to C:/Users/vr_lab_user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=645.93MBs, RandomWriteSpeed=101.48MBs. Assigned SpeedClass 'Local'
+[2022.06.25-07.47.38:556][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vr_lab_user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.25-07.47.38:556][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.25-07.47.38:556][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.06.25-07.47.38:564][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.06.25-07.47.38:564][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.06.25-07.47.38:564][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/Shaders/WorkingDirectory/4480/).
+[2022.06.25-07.47.38:564][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vr_lab_user/AppData/Local/Temp/UnrealShaderWorkingDir/D5F806A34C0E24AFACD6EE9ADAF8FFC0/'.
+[2022.06.25-07.47.38:565][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.25-07.47.38:565][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.06.25-07.47.40:180][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.25-07.47.40:180][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.25-07.47.40:201][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.06.25-07.47.40:259][  0]LogHMD: Initialized OpenXR on SteamVR/OpenXR runtime version 0.1.0
+[2022.06.25-07.47.40:316][  0]LogAssetRegistry: FAssetRegistry took 0.0171 seconds to start up
+[2022.06.25-07.47.40:325][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.06.25-07.47.40:707][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.06.25-07.47.40:709][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.06.25-07.47.41:251][  0]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.41:251][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.41:251][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.41:251][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.41:251][  0]LogPackageName: SearchForPackageOnDisk took   0.090s, but failed to resolve Env_ALL_Artifacts.
+[2022.06.25-07.47.41:251][  0]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2022.06.25-07.47.41:251][  0]LogPackageName: SearchForPackageOnDisk took   0.092s, but failed to resolve JW_Ice_Mountain.
+[2022.06.25-07.47.41:251][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.06.25-07.47.41:251][  0]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.41:251][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.41:251][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.41:251][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.41:251][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.25-07.47.41:252][  0]LogDeviceProfileManager: Active device profile: [00000443AC3FD580][00000443A1390000 50] WindowsEditor
+[2022.06.25-07.47.41:252][  0]LogDeviceProfileManager: Profiles: [00000443AC3FD740][00000443A12CA000 50] Windows, [00000443AC3FD580][00000443A1390000 50] WindowsEditor, [00000443AC3F9F40][00000443A1397800 50] WindowsServer, [00000443AC3FD040][0000044391937800 50] WindowsClient, [00000443AC3F8DC0][00000443A133A000 50] IOS, [00000443AC3FCCC0][00000443A1392800 50] iPadAir2, [00000443AC3FE540][00000443AC6F2800 50] IPadPro, [00000443AC3FE8C0][00000443AC6F0000 50] iPadAir3, [00000443AC3FAB80][00000443AC6F7800 50] iPadAir4, [00000443AC3FBEC0][00000443AC6FA000 50] iPadMini4, [00000443AC3FDE40][00000443AC6FC800 50] iPadMini5, [00000443AC3FB440][00000443A1337800 50] iPadMini6, [00000443AC781C00][00000443AC705000 50] iPhone6S, [00000443AC781A40][00000443AC702800 50] iPhone7, [00000443AC7816C0][00000443AC700000 50] iPodTouch7, [00000443AC782BC0][00000443AC70A000 50] iPhone6SPlus, [00000443AC782A00][00000443AC70C800 50] iPhone7Plus, [00000443AC780540][00000443AC6F5000 50] iPhoneSE, [00000443AC783480][00000443AC710000 50] iPhone8, [00000443AC781DC0][00000443AC715000 50] iPhone8Plus, [00000443AC783B80][00000443AC717800 50] iPhoneX, [00000443AC780E00][00000443AC71A000 50] iPhoneXS, [00000443AC780380][00000443AC71C800 50] iPhoneXSMax, [00000443AC780700][00000443AC707800 50] iPhoneXR, [00000443AC783640][00000443AC760000 50] iPhone11, [00000443AC7808C0][00000443AC765000 50] iPhone11Pro, [00000443AC7839C0][00000443AC767800 50] iPhone11ProMax, [00000443AC784980][00000443AC76A000 50] iPhoneSE2, [00000443AC780C40][00000443AC76C800 50] iPhone12Mini, [00000443AC782F40][00000443AC712800 50] iPhone12, [00000443AC7832C0][00000443AC770000 50] iPhone12Pro, [00000443AC782840][00000443AC775000 50] iPhone12ProMax, [00000443AC783800][00000443AC777800 50] iPhone13Mini, [00000443AC784280][00000443AC77A000 50] iPhone13, [00000443AC783100][00000443AC77C800 50] iPhone13Pro, [00000443AC7801C0][00000443AC762800 50] iPhone13ProMax, [00000443AC782D80][00000443AC790000 50] iPadPro105, [00000443AC784EC0][00000443AC795000 50] iPadPro129, [00000443AC7855C0][00000443AC797800 50] iPadPro97, [00000443AC785240][00000443AC79A000 50] iPadPro2_129, [00000443AC785080][00000443AC79C800 50] iPad5, [00000443AC784440][00000443AC772800 50] iPad6, [00000443AC7840C0][00000443AC7A0000 50] iPad7, [00000443AC785400][00000443AC7A5000 50] iPad8, [00000443AC784B40][00000443AC7A7800 50] iPad9, [00000443AC784600][00000443AC7AA000 50] iPadPro11, [00000443AC785E80][00000443AC7AC800 50] iPadPro2_11, [00000443AC786580][00000443AC792800 50] iPadPro3_11, [00000443AC786040][00000443AC7B0000 50] iPadPro3_129, [00000443AC782680][00000443AC7B5000 50] iPadPro4_129, [00000443AC785CC0][00000443AC7B7800 50] iPadPro5_129, [00000443AC783D40][00000443AC7BA000 50] AppleTV, [00000443AC781880][00000443AC7BC800 50] AppleTV4K, [00000443AC781500][00000443AC7A2800 50] TVOS, [00000443AC788F80][00000443AC7C2800 50] Mac, [00000443AC789300][00000443AC7C0000 50] MacEditor, [00000443AC788DC0][00000443AC7C7800 50] MacClient, [00000443AC788A40][00000443AC7CA000 50] MacServer, [00000443AC786200][00000443AC7B2800 50] Linux, [00000443AC782140][00000443AC7CC800 50] LinuxEditor, [00000443AC7847C0][00000443AC7D0000 50] LinuxArm64Editor, [00000443AC787A80][00000443AC7D5000 50] LinuxArm64, [00000443AC788C00][00000443AC7D7800 50] LinuxClient, [00000443AC7863C0][00000443AC7DA000 50] LinuxArm64Client, [00000443AC788500][00000443AC7DC800 50] LinuxServer, [00000443AC781F80][00000443AC7C5000 50] LinuxArm64Server, [00000443AC780FC0][00000443AC7E0000 50] Android, [00000443AC786740][00000443AC7E5000 50] Android_Preview_OpenGL, [00000443AC783F00][00000443AC7E7800 50] Android_Preview_Vulkan, [00000443AC789BC0][00000443AC7EA000 50] Android_Low, [00000443AC787FC0][00000443AC7EC800 50] Android_Mid, [00000443AC789A00][00000443AC7D2800 50] Android_High, [00000443AC7878C0][00000443AC7F0000 50] Android_Default, [00000443AC787540][00000443AC7F5000 50] Android_Adreno4xx, [00000443AC787C40][00000443AC7F7800 50] Android_Adreno5xx_Low, [00000443AC785B00][00000443AC7FA000 50] Android_Adreno5xx, [00000443AC786E40][00000443AC7FC800 50] Android_Adreno6xx, [00000443AC787E00][00000443AC7E2800 50] Android_Adreno6xx_Vulkan, [00000443AC789840][00000443AA190000 50] Android_Adreno7xx, [00000443AC787000][00000443AA195000 50] Android_Adreno7xx_Vulkan, [00000443AC789680][00000443AA197800 50] Android_Mali_T6xx, [00000443AC7886C0][00000443AA19A000 50] Android_Mali_T7xx, [00000443AC7824C0][00000443AA19C800 50] Android_Mali_T8xx, [00000443AC780A80][00000443AC7F2800 50] Android_Mali_G71, [00000443AC78A9C0][00000443AA1A0000 50] Android_Mali_G72, [00000443AC78A480][00000443AA1A5000 50] Android_Mali_G72_Vulkan, [00000443AC78A2C0][00000443AA1A7800 50] Android_Mali_G76, [00000443AC78A640][00000443AA1AA000 50] Android_Mali_G76_Vulkan, [00000443AC78A800][00000443AA1AC800 50] Android_Mali_G77, [00000443AC789D80][00000443AA192800 50] Android_Mali_G77_Vulkan, [00000443AC788880][00000443AA1B0000 50] Android_Mali_G78, [00000443AC785940][00000443AA1B5000 50] Android_Mali_G78_Vulkan, [00000443AC787380][00000443AA1B7800 50] Android_Mali_G710, [00000443AC78B7C0][00000443AA1BA000 50] Android_Mali_G710_Vulkan, [00000443AC78B440][00000443AA1BC800 50] Android_Xclipse_920, [00000443AC786C80][00000443AA1A2800 50] Android_Xclipse_920_Vulkan, [00000443AC78AB80][00000443AA1C0000 50] Android_Vulkan_SM5, [00000443AC78A100][00000443AA1C5000 50] Android_PowerVR_G6xxx, [00000443AC780000][00000443AA1C7800 50] Android_PowerVR_GT7xxx, [00000443AC789F40][00000443AA1CA000 50] Android_PowerVR_GE8xxx, [00000443AC78B600][00000443AA1CC800 50] Android_PowerVR_GM9xxx, [00000443AC78C780][00000443AA1B2800 50] Android_PowerVR_GM9xxx_Vulkan, [00000443AC78C400][00000443AA1D0000 50] Android_TegraK1, [00000443AC787700][00000443AA1D5000 50] Android_Unknown_Vulkan, [00000443AC78AF00][00000443AA1D7800 50] Oculus_Quest, [00000443AC78B0C0][00000443AA1DA000 50] Oculus_Quest2, [00000443AC78B280][00000443AA1DC800 50] HoloLens, 
+[2022.06.25-07.47.41:252][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.06.25-07.47.41:287][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.06.25-07.47.41:698][  0]LogPackageName: SearchForPackageOnDisk took   0.085s to resolve S_Survival_CA_Chicken_02.
+[2022.06.25-07.47.41:698][  0]LogPackageName: SearchForPackageOnDisk took   0.088s, but failed to resolve JW_Ice_Mountain.
+[2022.06.25-07.47.41:698][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.06.25-07.47.41:698][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.25-07.47.41:698][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.25-07.47.41:698][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.25-07.47.41:698][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.25-07.47.41:698][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.25-07.47.41:726][  0]LogNetVersion: MediaNight 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3207417235)
+[2022.06.25-07.47.42:017][  0]LogSlate: Border
+[2022.06.25-07.47.42:017][  0]LogSlate: BreadcrumbButton
+[2022.06.25-07.47.42:017][  0]LogSlate: Default
+[2022.06.25-07.47.42:017][  0]LogSlate: Icons.Save
+[2022.06.25-07.47.42:017][  0]LogSlate: Icons.Toolbar.Settings
+[2022.06.25-07.47.42:017][  0]LogSlate: ListView
+[2022.06.25-07.47.42:017][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.06.25-07.47.42:017][  0]LogSlate: SoftwareCursor_Grab
+[2022.06.25-07.47.42:017][  0]LogSlate: TableView.DarkRow
+[2022.06.25-07.47.42:017][  0]LogSlate: TableView.Row
+[2022.06.25-07.47.42:017][  0]LogSlate: TreeView
+[2022.06.25-07.47.42:375][  0]SourceControl: Source control is disabled
+[2022.06.25-07.47.42:445][  0]SourceControl: Source control is disabled
+[2022.06.25-07.47.42:445][  0]SourceControl: Source control is disabled
+[2022.06.25-07.47.42:707][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.25-07.47.42:735][  0]LogUObjectArray: 20625 objects as part of root set at end of initial load.
+[2022.06.25-07.47.42:735][  0]LogUObjectAllocator: 5604128 out of 0 bytes used by permanent object pool.
+[2022.06.25-07.47.42:735][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.25-07.47.42:949][  0]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.42:949][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.42:949][  0]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.42:949][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.42:949][  0]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.42:949][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.43:571][  0]LogPackageName: SearchForPackageOnDisk took   0.065s to resolve m_FogSheet_02.
+[2022.06.25-07.47.43:571][  0]LogPackageName: SearchForPackageOnDisk took   0.099s to resolve m_FogSheet_02.
+[2022.06.25-07.47.43:571][  0]LogPackageName: SearchForPackageOnDisk took   0.104s to resolve m_FogSheet_02.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.43:571][  0]LogPackageName: SearchForPackageOnDisk took   0.067s, but failed to resolve FX_Test_LAN.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.43:571][  0]LogPackageName: SearchForPackageOnDisk took   0.085s to resolve m_FogSheet_02.
+[2022.06.25-07.47.43:571][  0]LogPackageName: SearchForPackageOnDisk took   0.094s, but failed to resolve StaticMesh'FX_Meshes.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.43:571][  0]LogPackageName: SearchForPackageOnDisk took   0.050s, but failed to resolve CastleEffects.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.43:571][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.43:572][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.43:572][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.43:572][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.43:572][  0]LogPackageName: SearchForPackageOnDisk took   0.125s, but failed to resolve 'FX_Ambient.
+[2022.06.25-07.47.43:572][  0]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2022.06.25-07.47.43:572][  0]LogPackageName: SearchForPackageOnDisk took   0.113s, but failed to resolve FX_Meshes.
+[2022.06.25-07.47.43:572][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2022.06.25-07.47.43:572][  0]LogPackageName: SearchForPackageOnDisk took   0.112s, but failed to resolve FX_Meshes.
+[2022.06.25-07.47.43:572][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2022.06.25-07.47.43:572][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.43:572][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.43:572][  0]LogPython: Using Python 3.9.7
+[2022.06.25-07.47.45:048][  0]LogPackageName: SearchForPackageOnDisk took   0.074s, but failed to resolve JW_Ice_Mountain.
+[2022.06.25-07.47.45:048][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.06.25-07.47.45:048][  0]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.45:048][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.45:048][  0]LogPackageName: SearchForPackageOnDisk took   0.073s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2022.06.25-07.47.45:048][  0]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2022.06.25-07.47.45:048][  0]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.45:048][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.45:048][  0]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.25-07.47.45:048][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.25-07.47.45:048][  0]LogPackageName: SearchForPackageOnDisk took   0.073s, but failed to resolve JW_FlameDungeon.
+[2022.06.25-07.47.45:048][  0]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2022.06.25-07.47.45:048][  0]LogPackageName: SearchForPackageOnDisk took   0.072s, but failed to resolve JW_FlameDungeon.
+[2022.06.25-07.47.45:048][  0]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2022.06.25-07.47.45:048][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B9129EE2417EA043A799309B0791F683 | Instance: FD86CC1244D870FFA33C7285358F20AE (r148-133-4480).
+[2022.06.25-07.47.45:123][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.25-07.47.45:178][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.25-07.47.45:548][  0]SourceControl: Source control is disabled
+[2022.06.25-07.47.45:552][  0]SourceControl: Source control is disabled
+[2022.06.25-07.47.45:568][  0]SourceControl: Source control is disabled
+[2022.06.25-07.47.45:654][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.25-07.47.45:718][  0]LogUProjectInfo: Found projects:
+[2022.06.25-07.47.45:799][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.25-07.47.45:831][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.25-07.47.45:831][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.25-07.47.46:022][  0]LogCollectionManager: Loaded 0 collections in 0.001653 seconds
+[2022.06.25-07.47.46:133][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Saved/Collections/' took 0.00s
+[2022.06.25-07.47.46:133][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/Developers/vrlabuser/Collections/' took 0.00s
+[2022.06.25-07.47.46:133][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/Collections/' took 0.00s
+[2022.06.25-07.47.46:133][  0]LogOcInput: OculusInput pre-init called
+[2022.06.25-07.47.46:715][  0]LogEngine: Initializing Engine...
+[2022.06.25-07.47.49:759][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.25-07.47.50:104][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.25-07.47.50:105][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-07.47.50:118][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-07.47.50:145][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.25-07.47.50:147][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.25-07.47.50:166][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.25-07.47.50:167][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.25-07.47.50:167][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.25-07.47.50:168][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.25-07.47.50:168][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.25-07.47.50:168][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-07.47.50:168][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-07.47.50:168][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-07.47.50:168][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-07.47.50:168][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.06.25-07.47.50:168][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-07.47.50:168][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.06.25-07.47.50:168][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-07.47.50:168][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.06.25-07.47.50:168][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.06.25-07.47.50:168][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-07.47.50:177][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-07.47.50:291][  0]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (2- Rift Audio)
+[2022.06.25-07.47.50:291][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-07.47.50:294][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-07.47.50:294][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-07.47.50:296][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.25-07.47.50:296][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.25-07.47.50:297][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.25-07.47.50:297][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.25-07.47.50:297][  0]LogInit: FAudioDevice initialized.
+[2022.06.25-07.47.50:298][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.25-07.47.50:298][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.25-07.47.50:298][  0]LogInit: Texture streaming: Enabled
+[2022.06.25-07.47.50:332][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.06.25-07.47.50:343][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.25-07.47.50:343][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={A225B0BB-428E-C045-DCE2-ECABCF963EFC}
+[2022.06.25-07.47.50:374][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.25-07.47.50:384][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.25-07.47.50:384][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.06.25-07.47.52:391][  0]LogLiveCoding: Display: First instance in process group "UE_MediaNight_0x8feafb61", spawning console
+[2022.06.25-07.47.52:391][  0]LogLiveCoding: Display: Waiting for server
+[2022.06.25-07.47.52:391][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.06.25-07.47.52:395][  0]LogInit: Transaction tracking system initialized
+[2022.06.25-07.47.52:465][  0]BlueprintLog: New page: Editor Load
+[2022.06.25-07.47.52:647][  0]LocalizationService: Localization service is disabled
+[2022.06.25-07.47.52:694][  0]TimingProfiler: Initialize
+[2022.06.25-07.47.52:694][  0]TimingProfiler: OnSessionChanged
+[2022.06.25-07.47.52:694][  0]LoadingProfiler: Initialize
+[2022.06.25-07.47.52:694][  0]LoadingProfiler: OnSessionChanged
+[2022.06.25-07.47.52:694][  0]NetworkingProfiler: Initialize
+[2022.06.25-07.47.52:694][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.25-07.47.52:694][  0]MemoryProfiler: Initialize
+[2022.06.25-07.47.52:695][  0]MemoryProfiler: OnSessionChanged
+[2022.06.25-07.47.53:418][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/' took 0.10s
+[2022.06.25-07.47.53:418][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.06.25-07.47.53:541][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.25-07.47.53:547][  0]SourceControl: Source control is disabled
+[2022.06.25-07.47.53:721][  0]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2022.06.25-07.47.53:767][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.25-07.48.32:359][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2022.06.25-07.48.32:360][  0]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2022.06.25-07.48.32:376][  0]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2022.06.25-07.48.32:376][  0]LogUnrealEdMisc: Loading editor; pre map load, took 99.834
+[2022.06.25-07.48.32:439][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 G:/Programme/UE_5.0/FeaturePacks/StarterContent.upack)
+[2022.06.25-07.48.32:506][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.06.25-07.48.33:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.06.25-07.48.33:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.06.25-07.48.33:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.06.25-07.48.33:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.06.25-07.48.33:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.06.25-07.48.33:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.06.25-07.48.33:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.06.25-07.48.33:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Fire01.uasset"
+[2022.06.25-07.48.33:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.06.25-07.48.33:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.06.25-07.48.33:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.06.25-07.48.33:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Light01.uasset"
+[2022.06.25-07.48.33:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.06.25-07.48.33:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Light02.uasset"
+[2022.06.25-07.48.33:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.06.25-07.48.33:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.06.25-07.48.33:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.06.25-07.48.33:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.06.25-07.48.33:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.06.25-07.48.33:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.06.25-07.48.33:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.06.25-07.48.33:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.06.25-07.48.33:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.06.25-07.48.33:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Steam01.uasset"
+[2022.06.25-07.48.33:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.06.25-07.48.33:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.06.25-07.48.33:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.06.25-07.48.33:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.06.25-07.48.33:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.06.25-07.48.33:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.06.25-07.48.33:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.06.25-07.48.33:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.06.25-07.48.33:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.06.25-07.48.33:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.06.25-07.48.33:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.06.25-07.48.33:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.06.25-07.48.33:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.06.25-07.48.33:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.06.25-07.48.33:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.06.25-07.48.33:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.06.25-07.48.33:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.06.25-07.48.33:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.06.25-07.48.33:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.06.25-07.48.33:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.06.25-07.48.33:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.06.25-07.48.33:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.06.25-07.48.33:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.06.25-07.48.33:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.06.25-07.48.33:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.06.25-07.48.33:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.06.25-07.48.33:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.06.25-07.48.33:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.06.25-07.48.33:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.06.25-07.48.33:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.06.25-07.48.33:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.06.25-07.48.33:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.06.25-07.48.33:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.06.25-07.48.34:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Maps/StarterMap.umap"
+[2022.06.25-07.48.34:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.06.25-07.48.34:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.06.25-07.48.34:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.06.25-07.48.34:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.06.25-07.48.34:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.06.25-07.48.34:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.06.25-07.48.34:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.06.25-07.48.34:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.06.25-07.48.34:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.06.25-07.48.34:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.06.25-07.48.34:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.06.25-07.48.34:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.06.25-07.48.34:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.06.25-07.48.34:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.06.25-07.48.34:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.06.25-07.48.34:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.06.25-07.48.34:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.06.25-07.48.34:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.06.25-07.48.34:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.06.25-07.48.34:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.06.25-07.48.34:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.06.25-07.48.34:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.06.25-07.48.34:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_Door.uasset"
+[2022.06.25-07.48.34:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.06.25-07.48.34:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.06.25-07.48.34:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.06.25-07.48.34:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.06.25-07.48.34:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.06.25-07.48.34:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.06.25-07.48.34:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.06.25-07.48.34:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.06.25-07.48.34:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.06.25-07.48.34:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.06.25-07.48.34:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.06.25-07.48.34:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.06.25-07.48.34:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.06.25-07.48.34:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.06.25-07.48.34:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.06.25-07.48.34:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.06.25-07.48.35:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.06.25-07.48.35:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.06.25-07.48.35:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.06.25-07.48.35:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.06.25-07.48.35:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.06.25-07.48.35:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.06.25-07.48.35:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.06.25-07.48.35:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.06.25-07.48.35:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.06.25-07.48.35:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.06.25-07.48.35:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.06.25-07.48.35:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.06.25-07.48.35:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.06.25-07.48.35:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.06.25-07.48.35:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.06.25-07.48.35:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.06.25-07.48.35:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.06.25-07.48.35:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.06.25-07.48.36:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.06.25-07.48.36:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.06.25-07.48.36:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.06.25-07.48.36:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.06.25-07.48.36:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.06.25-07.48.36:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.06.25-07.48.36:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.06.25-07.48.36:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.06.25-07.48.36:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.06.25-07.48.36:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.06.25-07.48.36:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.06.25-07.48.36:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.06.25-07.48.36:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.06.25-07.48.36:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.06.25-07.48.36:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.06.25-07.48.36:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.06.25-07.48.36:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.06.25-07.48.36:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.06.25-07.48.36:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.06.25-07.48.36:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.06.25-07.48.36:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.06.25-07.48.36:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.06.25-07.48.36:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.06.25-07.48.36:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.06.25-07.48.36:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.06.25-07.48.36:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.06.25-07.48.36:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.06.25-07.48.36:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.06.25-07.48.36:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.06.25-07.48.36:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.06.25-07.48.36:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.06.25-07.48.36:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.06.25-07.48.36:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.06.25-07.48.36:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.06.25-07.48.36:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.06.25-07.48.36:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.06.25-07.48.36:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.06.25-07.48.36:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.06.25-07.48.36:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.06.25-07.48.36:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.06.25-07.48.36:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.06.25-07.48.36:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.06.25-07.48.36:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.06.25-07.48.36:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.06.25-07.48.36:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.06.25-07.48.36:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.06.25-07.48.36:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.06.25-07.48.36:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.06.25-07.48.36:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.06.25-07.48.36:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.06.25-07.48.37:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.06.25-07.48.37:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.06.25-07.48.37:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.06.25-07.48.37:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.06.25-07.48.37:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.06.25-07.48.37:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.06.25-07.48.37:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.06.25-07.48.37:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.06.25-07.48.37:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.06.25-07.48.37:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.06.25-07.48.37:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.06.25-07.48.37:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.06.25-07.48.37:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.06.25-07.48.37:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.06.25-07.48.37:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.06.25-07.48.37:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.06.25-07.48.37:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.06.25-07.48.37:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.06.25-07.48.37:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.06.25-07.48.37:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.06.25-07.48.38:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.06.25-07.48.38:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.06.25-07.48.38:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.06.25-07.48.38:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.06.25-07.48.38:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.06.25-07.48.38:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.06.25-07.48.38:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.06.25-07.48.38:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.06.25-07.48.38:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.06.25-07.48.38:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.06.25-07.48.38:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.06.25-07.48.39:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.06.25-07.48.39:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.06.25-07.48.39:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.06.25-07.48.39:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.06.25-07.48.39:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.06.25-07.48.39:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.06.25-07.48.39:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.06.25-07.48.39:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.06.25-07.48.39:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.06.25-07.48.39:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.06.25-07.48.39:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.06.25-07.48.39:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.06.25-07.48.39:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.06.25-07.48.39:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.06.25-07.48.40:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.06.25-07.48.40:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.06.25-07.48.40:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.06.25-07.48.40:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.06.25-07.48.40:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.06.25-07.48.40:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.06.25-07.48.40:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.06.25-07.48.40:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.06.25-07.48.40:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.06.25-07.48.40:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.06.25-07.48.40:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.06.25-07.48.40:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.06.25-07.48.40:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.06.25-07.48.40:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.06.25-07.48.40:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.06.25-07.48.40:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.06.25-07.48.40:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.06.25-07.48.40:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.06.25-07.48.40:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.06.25-07.48.40:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.06.25-07.48.40:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.06.25-07.48.40:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.06.25-07.48.40:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.06.25-07.48.40:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.06.25-07.48.40:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.06.25-07.48.41:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.06.25-07.48.41:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.06.25-07.48.41:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.06.25-07.48.41:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.06.25-07.48.41:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.06.25-07.48.41:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.06.25-07.48.41:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.06.25-07.48.41:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.06.25-07.48.41:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.06.25-07.48.41:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.06.25-07.48.41:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.06.25-07.48.41:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.06.25-07.48.41:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.06.25-07.48.41:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.06.25-07.48.41:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.06.25-07.48.41:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.06.25-07.48.41:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.06.25-07.48.41:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.06.25-07.48.41:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.06.25-07.48.41:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.06.25-07.48.41:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.06.25-07.48.41:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.06.25-07.48.41:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.06.25-07.48.41:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.06.25-07.48.41:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.06.25-07.48.41:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.06.25-07.48.41:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.06.25-07.48.41:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.06.25-07.48.41:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.06.25-07.48.41:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.06.25-07.48.41:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.06.25-07.48.41:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.06.25-07.48.41:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.06.25-07.48.41:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.06.25-07.48.41:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.06.25-07.48.41:651][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2022.06.25-07.48.41:866][  0]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight) ...
+[2022.06.25-07.48.42:065][  0]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.095881 seconds
+[2022.06.25-07.48.47:011][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight
+[2022.06.25-07.48.47:012][  0]LogSavePackage: Moving 'C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Saved/HDRI_Epic_Courtyard_Daylight5EE0A6054137C025498F0BB84425B199.tmp' to 'C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset'
+[2022.06.25-07.48.47:049][  0]LogFeaturePack: Inserted 1 feature packs
+[2022.06.25-07.48.47:051][  0]Cmd: MAP LOAD FILE="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.25-07.48.47:056][  0]LightingResults: New page: Lighting Build
+[2022.06.25-07.48.47:084][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-07.48.47:084][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.48.47:084][  0]MapCheck: New page: Map Check
+[2022.06.25-07.48.47:084][  0]LightingResults: New page: Lighting Build
+[2022.06.25-07.48.47:093][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-07.48.47:096][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.25-07.48.47:467][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\Animations\Death_1_Montage.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Death_1': Can't find file.
+[2022.06.25-07.48.47:467][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Death_1'
+[2022.06.25-07.48.47:474][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\Animations\Death_2_Montage.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Death_2': Can't find file.
+[2022.06.25-07.48.47:474][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Death_2'
+[2022.06.25-07.48.47:478][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\Animations\Death_3_Montage.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Death_3': Can't find file.
+[2022.06.25-07.48.47:478][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Death_3'
+[2022.06.25-07.48.47:483][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\Animations\Death_4_Montage.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Death_4': Can't find file.
+[2022.06.25-07.48.47:483][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Death_4'
+[2022.06.25-07.48.47:485][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\BP_Enemy.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Hit_1_Montage': Can't find file.
+[2022.06.25-07.48.47:485][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Hit_1_Montage'
+[2022.06.25-07.48.47:485][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\BP_Enemy.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Hit_2_Montage': Can't find file.
+[2022.06.25-07.48.47:485][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Hit_2_Montage'
+[2022.06.25-07.48.47:486][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\BP_Enemy.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Hit_3_Montage': Can't find file.
+[2022.06.25-07.48.47:486][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Hit_3_Montage'
+[2022.06.25-07.48.47:486][  0]LogLinker: Warning: [AssetLog] C:\Users\vr_lab_user\Desktop\VRShootingRange\MediaNight\Content\Gamefiles\Enemy\BP_Enemy.uasset: Failed to load '/Game/Gamefiles/Enemy/Animations/Hit_4_Montage': Can't find file.
+[2022.06.25-07.48.47:486][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Gamefiles/Enemy/Animations/Hit_4_Montage'
+[2022.06.25-07.48.51:583][  0]LogMaterial: Display: Missing cached shadermap for M_Mannequin in PCD3D_SM5, Default, SM5 (DDC key hash: C0FFDD9EF9DB2AF86CD99A9CA012F8FED64DA10B), compiling. 
+[2022.06.25-07.48.51:767][  0]LogMaterial: Display: Missing cached shadermap for MI_Quinn_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D76F169016D1CE8750D35FC7EC0C581D85127C3), compiling. 
+[2022.06.25-07.48.52:139][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA00_StreamCache_Ver5027_MEM_65536MaxChnkSize_0000000 wave Explosion01...
+[2022.06.25-07.48.52:164][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 279632 while cooking SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01.
+[2022.06.25-07.48.52:165][  0]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01: 262144
+[2022.06.25-07.48.52:166][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA00_StreamCache_Ver5027_MEM_65536MaxChnkSize_0000000 wave Explosion02...
+[2022.06.25-07.48.52:194][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 286376 while cooking SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02.
+[2022.06.25-07.48.52:195][  0]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02: 262144
+[2022.06.25-07.48.52:859][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2022.06.25-07.48.52:859][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-07.48.52:859][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-07.48.52:859][  0]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.06.25-07.48.53:157][  0]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse needed to have new flag set bUsedWithSkeletalMesh !
+[2022.06.25-07.48.53:204][  0]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: B76E8D199FEF8FC40D92B1CEEB7635B587340AC7), compiling. 
+[2022.06.25-07.48.53:291][  0]MapCheck: Warning: M_Tech_Hex_Tile_Pulse Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse was missing the usage flag bUsedWithSkeletalMesh. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2022.06.25-07.48.53:315][  0]LogRenderer: Warning: Deprectaed CVar r.BasePassOutputsVelocity is set to 0. Remove and use r.VelocityOutputPass instead.
+[2022.06.25-07.48.53:316][  0]LogRenderer: Warning: Deprectaed CVar r.VertexDeformationOutputsVelocity is set to 0. Remove and use r.Velocity.EnableVertexDeformation instead.
+[2022.06.25-07.48.53:316][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.25-07.48.53:342][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.06.25-07.48.53:343][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.25-07.48.53:343][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,191ms to complete.
+[2022.06.25-07.48.53:358][  0]LogFileHelpers: Loading map 'VRTemplateMap' took 6.307
+[2022.06.25-07.48.53:455][  0]LogUnrealEdMisc: Total Editor Startup Time, took 120.913
+[2022.06.25-07.48.53:455][  0]LogShaderCompilers: Display: ================================================
+[2022.06.25-07.48.53:455][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.25-07.48.53:455][  0]LogShaderCompilers: Display: Total job queries 97, among them cache hits 0 (0.00%)
+[2022.06.25-07.48.53:455][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.25-07.48.53:455][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.25-07.48.53:455][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.25-07.48.53:455][  0]LogShaderCompilers: Display: Shaders Compiled: 97
+[2022.06.25-07.48.53:455][  0]LogShaderCompilers: Display: Jobs assigned 30, completed 0 (0.00%)
+[2022.06.25-07.48.53:455][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.01 s
+[2022.06.25-07.48.53:455][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.25-07.48.53:455][  0]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 3.75 jobs/batch
+[2022.06.25-07.48.53:455][  0]LogShaderCompilers: Display: ================================================
+[2022.06.25-07.48.53:562][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.06.25-07.48.53:582][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.48.53:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.48.53:597][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.48.53:604][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.48.54:371][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.06.25-07.48.54:371][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.48.54:378][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.06.25-07.48.54:378][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.48.54:388][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.06.25-07.48.54:388][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.48.54:397][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.06.25-07.48.54:397][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.48.54:416][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.06.25-07.48.54:416][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.48.54:423][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.06.25-07.48.54:423][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.48.54:428][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.06.25-07.48.54:428][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.48.54:434][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.06.25-07.48.54:434][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.48.54:439][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.06.25-07.48.54:439][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.48.54:445][  0]LogPakFile: Display: Mounted Pak file 'G:/Programme/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.06.25-07.48.54:445][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-07.48.54:925][  0]LogSlate: Took 0.006186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.25-07.48.54:935][  0]LogSlate: Took 0.005901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.25-07.48.54:945][  0]LogSlate: Took 0.007810 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.25-07.48.54:957][  0]LogSlate: Took 0.009965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.25-07.48.55:055][  0]LogViewport: Scene viewport resized to 2517x1303, mode Windowed.
+[2022.06.25-07.48.55:152][  0]LogSlate: Took 0.005228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.25-07.48.55:503][  0]LogProfilingDebugging: Allocated a 2517 x 1303 texture for HMD canvas layer
+[2022.06.25-07.48.55:556][  0]LogStall: Startup...
+[2022.06.25-07.48.55:559][  0]LogStall: Startup complete.
+[2022.06.25-07.48.55:622][  0]LogLoad: (Engine Initialization) Total time: 123.08 seconds
+[2022.06.25-07.48.55:622][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.25-07.48.55:753][  0]AssetCheck: New page: Asset Save: HDRI_Epic_Courtyard_Daylight
+[2022.06.25-07.48.55:774][  0]LogContentValidation: Display: Validating TextureCube /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+[2022.06.25-07.48.55:805][  0]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_MenuLaser.NS_MenuLaser took 3.580989 sec, no shader worker used.
+[2022.06.25-07.48.55:815][  0]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_PlayAreaBounds.NS_PlayAreaBounds took 3.535572 sec, no shader worker used.
+[2022.06.25-07.48.55:817][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.25-07.48.56:837][  1]LogAssetRegistry: Asset discovery search completed in 76.5228 seconds
+[2022.06.25-07.48.56:870][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2022.06.25-07.48.56:891][  1]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportRing.NS_TeleportRing took 4.578052 sec, no shader worker used.
+[2022.06.25-07.48.57:070][  2]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportTrace.NS_TeleportTrace took 4.703123 sec, no shader worker used.
+[2022.06.25-07.48.57:071][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.06.25-07.48.57:088][  2]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.06.25-07.48.57:133][  2]LogSlate: Took 0.007994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.25-07.49.42:106][237]LogDerivedDataCache: C:/Users/vr_lab_user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.537 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.25-07.49.53:005][694]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.25-07.49.56:681][862]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.25-07.49.58:222][929]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.25-07.50.08:891][452]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.25-07.50.16:113][968]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.25-07.50.23:933][532]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.25-07.50.35:566][349]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.25-07.50.35:592][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-07.50.35:611][349]PIE: New page: PIE session: VRTemplateMap (25.06.2022, 11:50:35)
+[2022.06.25-07.50.35:629][349]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.06.25-07.50.35:639][349]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.25-07.50.35:647][349]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.06.25-07.50.35:658][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010176s)
+[2022.06.25-07.50.35:658][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010458s)
+[2022.06.25-07.50.35:658][349]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-07.50.35:658][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-07.50.35:659][349]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.06.25-07.50.35:659][349]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2022.06.25-07.50.35:673][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.06.25-07.50.35:675][349]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.25-07.50.35:675][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-07.50.35:675][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-07.50.35:675][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-07.50.35:675][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-07.50.35:675][349]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.06.25-07.50.35:675][349]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-07.50.35:675][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.06.25-07.50.35:675][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-07.50.35:675][349]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.06.25-07.50.35:675][349]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.06.25-07.50.35:675][349]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-07.50.35:713][349]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-07.50.35:799][349]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (2- Rift Audio)
+[2022.06.25-07.50.35:800][349]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-07.50.35:800][349]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-07.50.35:800][349]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-07.50.35:802][349]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.06.25-07.50.35:802][349]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.06.25-07.50.35:804][349]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.06.25-07.50.35:804][349]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.06.25-07.50.35:804][349]LogInit: FAudioDevice initialized.
+[2022.06.25-07.50.35:804][349]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2022.06.25-07.50.35:822][349]LogLoad: Game class is 'VRGameMode_C'
+[2022.06.25-07.50.35:840][349]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.06.25-09.50.35
+[2022.06.25-07.50.35:938][349]LogWorld: Bringing up level for play took: 0.107541
+[2022.06.25-07.50.35:944][349]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.06.25-07.50.35:957][349]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.25-07.50.36:073][349]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.50.36:074][349]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.50.36:224][349]PIE: Server logged in
+[2022.06.25-07.50.36:225][349]PIE: Play in editor total start time 0,644 seconds.
+[2022.06.25-07.50.36:438][349]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.06.25-07.50.45:145][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.50.45:145][891]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.06.25-07.50.45:165][891]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-07.50.45:166][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.50.45:181][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-07.50.45:185][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.50.45:195][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-07.50.45:196][891]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.06.25-07.50.45:196][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.25-07.50.45:198][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.25-07.50.45:202][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.50.45:215][891]LogSlate: Slate User Unregistered.  User Index 8
+[2022.06.25-07.50.45:216][891]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.50.45:217][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.25-07.50.45:261][892]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.06.25-07.50.46:657][984]LogTurnkeySupport: Display: Adding device menu item for r148-133
+[2022.06.25-07.50.46:657][984]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/MediaNight.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/TurnkeyReport_1.log" -log="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/TurnkeyLog_1.log" -project="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/MediaNight.uproject"  -Device=Win64@r148-133'
+[2022.06.25-07.50.46:657][984]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""G:/Programme/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/MediaNight.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/TurnkeyReport_1.log" -log="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/Intermediate/TurnkeyLog_1.log" -project="C:/Users/vr_lab_user/Desktop/VRShootingRange/MediaNight/MediaNight.uproject"  -Device=Win64@r148-133" ]
+[2022.06.25-07.50.46:882][999]LogTurnkeySupport: Completed device detection: Code = -2147450730
+[2022.06.25-07.50.48:108][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-07.50.48:108][ 85]PIE: New page: PIE session: VRTemplateMap (25.06.2022, 11:50:48)
+[2022.06.25-07.50.48:108][ 85]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.06.25-07.50.48:122][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013555s)
+[2022.06.25-07.50.48:122][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.013666s)
+[2022.06.25-07.50.48:122][ 85]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-07.50.48:122][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-07.50.48:123][ 85]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.06.25-07.50.48:123][ 85]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2022.06.25-07.50.48:138][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.06.25-07.50.48:139][ 85]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.25-07.50.48:139][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-07.50.48:139][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-07.50.48:139][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-07.50.48:139][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-07.50.48:139][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.06.25-07.50.48:139][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-07.50.48:139][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.06.25-07.50.48:139][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-07.50.48:140][ 85]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.06.25-07.50.48:140][ 85]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.06.25-07.50.48:140][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-07.50.48:142][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-07.50.48:225][ 85]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (2- Rift Audio)
+[2022.06.25-07.50.48:225][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-07.50.48:225][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-07.50.48:225][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-07.50.48:227][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.06.25-07.50.48:227][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.06.25-07.50.48:229][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.06.25-07.50.48:229][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.06.25-07.50.48:229][ 85]LogInit: FAudioDevice initialized.
+[2022.06.25-07.50.48:229][ 85]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2022.06.25-07.50.48:252][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.50.53:801][ 85]LogLoad: Game class is 'VRGameMode_C'
+[2022.06.25-07.50.53:818][ 85]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.06.25-09.50.53
+[2022.06.25-07.50.53:819][ 85]LogWorld: Bringing up level for play took: 0.017244
+[2022.06.25-07.50.53:821][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.06.25-07.50.53:822][ 85]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.25-07.50.53:823][ 85]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.50.53:825][ 85]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.06.25-07.50.53:840][ 85]PIE: Server logged in
+[2022.06.25-07.50.53:843][ 85]PIE: Play in editor total start time 5,735 seconds.
+[2022.06.25-07.50.53:901][ 85]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.06.25-07.50.53:956][ 85]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.06.25-07.50.54:014][ 85]LogHMD: Error: Failed to create all visibility mask meshes for device/views. Abandoning visibility mask.
+[2022.06.25-07.50.54:014][ 85]LogWindows: Windows GetLastError: Der Vorgang wurde erfolgreich beendet. (0)
